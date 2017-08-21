@@ -1,3 +1,4 @@
+echo '#delay,startup'
 for file in "$@"; do
     first=$(sed -n -e '/^first/,$p' "$file" | head -1 -);
     startup=$(echo "$first" | cut -d',' -f3 -);
