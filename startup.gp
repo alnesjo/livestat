@@ -1,7 +1,7 @@
 clear
 reset
 
-bin_width = 0.02;
+bin_width = 0.2;
 bin_number(x) = floor(x/bin_width)
 rounded(x) = bin_width * ( bin_number(x) + 0.5 )
 
@@ -18,11 +18,12 @@ set ylabel 'Frequency'
 set xlabel 'Time (s)'
 set key title 'Fragment duration'
 
-stats file1 using 2
-median1 = STATS_median
-stats file2 using 2
-median2 = STATS_median
-stats file3 using 2
-median3 = STATS_median
-
-print median1, median2, median3
+stats file1 using 1
+set arrow from STATS_median, graph 0 to STATS_median, graph 1 arrowstyle 1
+stats file2 using 1
+set arrow from STATS_median, graph 0 to STATS_median, graph 1 arrowstyle 1
+stats file3 using 1
+set arrow from STATS_median, graph 0 to STATS_median, graph 1 arrowstyle 1
+plot file1 using (rounded($1)):(1) smooth frequency with boxes title '1s', \
+     file2 using (rounded($1)):(1) smooth frequency with boxes title '2s', \
+     file3 using (rounded($1)):(1) smooth frequency with boxes title '4s'
