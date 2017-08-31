@@ -1,0 +1,1935 @@
+Debug.js:127 [407] livestat start 
+Debug.js:127 [697] livestat chunk loading started 
+Debug.js:127 [706] livestat chunk loading completed in: 0.005 video throughput: 1512 
+Debug.js:127 [712] livestat chunk loading started 
+Debug.js:127 [713] livestat chunk loading completed in: 0.000 audio throughput: 5872 
+Debug.js:127 [717] livestat loadend index: NaN time passed: 0.028 
+Debug.js:127 [718] livestat loadend index: NaN time passed: 0.026 
+Debug.js:127 [760] livestat chunk loading started 
+Debug.js:127 [790] livestat chunk loading completed in: 0.029 video throughput: 9204 
+Debug.js:127 [796] livestat chunk loading started 
+Debug.js:127 [798] livestat chunk loading completed in: 0.001 audio throughput: 29528 
+Debug.js:127 [800] livestat chunk loading started 
+Debug.js:127 [802] livestat chunk loading completed in: 0.002 audio throughput: 28204 
+Debug.js:127 [820] livestat chunk loading completed in: 0.031 video throughput: 9512 
+Debug.js:127 [842] livestat chunk loading started 
+Debug.js:127 [847] livestat chunk loading completed in: 0.004 audio throughput: 20773 
+Debug.js:127 [851] livestat chunk loading completed in: 0.004 audio throughput: 18290 
+Debug.js:127 [855] livestat chunk loading completed in: 0.004 audio throughput: 17047 
+Debug.js:127 [862] livestat chunk loading completed in: 0.005 audio throughput: 15539 
+Debug.js:127 [911] livestat chunk loading completed in: 0.091 video throughput: 5921 
+Debug.js:127 [919] livestat chunk loading completed in: 0.060 audio throughput: 4693 
+Debug.js:127 [937] livestat chunk loading completed in: 0.025 video throughput: 6790 
+Debug.js:127 [943] livestat timeupdate delay: 7.406 buffer: 1.980 throughput: NaN 
+Debug.js:127 [950] livestat timeupdate delay: 7.413 buffer: 1.980 throughput: NaN 
+Debug.js:127 [954] livestat seeking to live start time: 1504176438.06 
+Debug.js:127 [957] livestat timeupdate delay: 1.379 buffer: 0.000 throughput: NaN 
+Debug.js:127 [957] livestat timeupdate delay: 1.380 buffer: 0.000 throughput: NaN 
+Debug.js:127 [958] livestat first time update delay: 0.550 
+Debug.js:127 [968] livestat chunk loading completed in: 0.031 video throughput: 7238 
+Debug.js:127 [980] livestat chunk loading completed in: 0.012 video throughput: 8213 
+Debug.js:127 [992] livestat chunk loading started 
+Debug.js:127 [998] livestat chunk loading completed in: 0.019 video throughput: 8828 
+Debug.js:127 [1012] livestat chunk loading completed in: 0.019 video throughput: 9505 
+Debug.js:127 [1023] livestat chunk loading completed in: 0.012 video throughput: 10179 
+Debug.js:127 [1034] livestat chunk loading completed in: 0.011 video throughput: 11104 
+Debug.js:127 [1050] livestat chunk loading completed in: 0.016 video throughput: 16848 
+Debug.js:127 [1063] livestat chunk loading completed in: 0.013 video throughput: 18368 
+Debug.js:127 [1071] livestat chunk loading completed in: 0.008 video throughput: 22208 
+Debug.js:127 [1075] livestat timeupdate delay: 1.486 buffer: 0.928 throughput: NaN 
+Debug.js:127 [1075] livestat timeupdate delay: 1.486 buffer: 0.928 throughput: NaN 
+Debug.js:127 [1076] livestat timeupdate delay: 1.485 buffer: 0.926 throughput: NaN 
+Debug.js:127 [1076] livestat timeupdate delay: 1.485 buffer: 0.926 throughput: NaN 
+Debug.js:127 [1081] livestat chunk loading started 
+Debug.js:127 [1096] livestat chunk loading completed in: 0.024 video throughput: 20024 
+Debug.js:127 [1114] livestat chunk loading completed in: 0.019 video throughput: 20024 
+Debug.js:127 [1124] livestat loadend index: 188022053 time passed: 0.245 
+Debug.js:127 [1134] livestat chunk loading completed in: 0.052 video throughput: 15761 
+Debug.js:127 [1165] livestat chunk loading completed in: 0.032 video throughput: 13959 
+Debug.js:127 [1176] livestat chunk loading completed in: 0.011 video throughput: 13959 
+Debug.js:127 [1196] livestat chunk loading completed in: 0.020 video throughput: 13647 
+Debug.js:127 [1219] livestat chunk loading completed in: 0.023 video throughput: 12925 
+Debug.js:127 [1227] livestat chunk loading started 
+Debug.js:127 [1231] livestat chunk loading completed in: 0.002 video throughput: 11722 
+Debug.js:127 [1240] livestat chunk loading completed in: 0.021 video throughput: 11917 
+Debug.js:127 [1242] livestat loadend index: NaN time passed: 0.093 
+Debug.js:127 [1258] livestat chunk loading completed in: 0.018 video throughput: 11984 
+Debug.js:127 [1283] livestat chunk loading completed in: 0.025 video throughput: 14112 
+Debug.js:127 [1288] livestat loadend index: 188022053 time passed: 0.309 
+Debug.js:127 [1371] livestat timeupdate delay: 1.562 buffer: 0.708 throughput: 15080.000 
+Debug.js:127 [1372] livestat timeupdate delay: 1.563 buffer: 0.708 throughput: 15080.000 
+Debug.js:127 [1519] livestat chunk loading started 
+Debug.js:127 [1554] livestat chunk loading completed in: 0.035 video throughput: 13839 
+Debug.js:127 [1558] livestat chunk loading started 
+Debug.js:127 [1561] livestat chunk loading completed in: 0.003 audio throughput: 5136 
+Debug.js:127 [1572] livestat loadend index: 188022054 time passed: 0.839 
+Debug.js:127 [1573] livestat loadend index: 188022054 time passed: 0.838 
+Debug.js:127 [1621] livestat timeupdate delay: 1.562 buffer: 1.458 throughput: 12276.000 
+Debug.js:127 [1621] livestat timeupdate delay: 1.562 buffer: 1.458 throughput: 12276.000 
+Debug.js:127 [1771] livestat chunk loading started 
+Debug.js:127 [1872] livestat timeupdate delay: 1.561 buffer: 1.206 throughput: 12276.000 
+Debug.js:127 [1873] livestat timeupdate delay: 1.562 buffer: 1.206 throughput: 12276.000 
+Debug.js:127 [1883] livestat chunk loading completed in: 0.112 video throughput: 16583 
+Debug.js:127 [2051] livestat chunk loading completed in: 0.167 video throughput: 15745 
+Debug.js:127 [2237] livestat chunk loading completed in: 0.186 video throughput: 14921 
+Debug.js:127 [2387] livestat timeupdate delay: 1.562 buffer: 0.692 throughput: 12276.000 
+Debug.js:127 [2391] livestat timeupdate delay: 1.566 buffer: 0.692 throughput: 12276.000 
+Debug.js:127 [2400] livestat chunk loading completed in: 0.164 video throughput: 14895 
+Debug.js:127 [2561] livestat chunk loading completed in: 0.160 video throughput: 14929 
+Debug.js:127 [2722] livestat chunk loading completed in: 0.161 video throughput: 14895 
+Debug.js:127 [2872] livestat chunk loading started 
+Debug.js:127 [2874] livestat timeupdate delay: 1.708 buffer: 0.351 throughput: 12276.000 
+Debug.js:127 [2875] livestat timeupdate delay: 1.709 buffer: 0.351 throughput: 12276.000 
+Debug.js:127 [2876] livestat chunk loading completed in: 0.004 audio throughput: 4957 
+Debug.js:127 [2899] livestat chunk loading completed in: 0.178 video throughput: 14741 
+Debug.js:127 [3026] livestat chunk loading started 
+Debug.js:127 [3059] livestat chunk loading started 
+Debug.js:127 [3088] livestat chunk loading completed in: 0.188 video throughput: 14623 
+Debug.js:127 [3109] livestat chunk loading completed in: 0.083 video throughput: 13321 
+Debug.js:127 [3118] livestat loadend index: 188022054 time passed: 1.533 
+Debug.js:127 [3122] livestat chunk loading completed in: 0.063 video throughput: 12716 
+Debug.js:127 [3141] livestat chunk loading started 
+Debug.js:127 [3144] livestat chunk loading completed in: 0.002 video throughput: 12658 
+Debug.js:127 [3148] livestat loadend index: NaN time passed: 0.016 
+Debug.js:127 [3371] livestat timeupdate delay: 1.956 buffer: 1.102 throughput: 13890.000 
+Debug.js:127 [3372] livestat timeupdate delay: 1.957 buffer: 1.102 throughput: 13890.000 
+Debug.js:127 [3518] livestat chunk loading started 
+Debug.js:127 [3522] livestat chunk loading completed in: 0.004 audio throughput: 4844 
+Debug.js:127 [3524] livestat chunk loading started 
+Debug.js:127 [3542] livestat chunk loading started 
+Debug.js:127 [3560] livestat chunk loading completed in: 0.036 video throughput: 12107 
+Debug.js:127 [3566] livestat chunk loading completed in: 0.023 video throughput: 11506 
+Debug.js:127 [3629] livestat chunk loading started 
+Debug.js:127 [3731] livestat chunk loading completed in: 0.102 video throughput: 10734 
+Debug.js:127 [3796] livestat chunk loading completed in: 0.065 video throughput: 10757 
+Debug.js:127 [3872] livestat timeupdate delay: 1.957 buffer: 1.602 throughput: 13890.000 
+Debug.js:127 [3875] livestat timeupdate delay: 1.960 buffer: 1.602 throughput: 13890.000 
+Debug.js:127 [3934] livestat chunk loading started 
+Debug.js:127 [4099] livestat chunk loading completed in: 0.164 video throughput: 11237 
+Debug.js:127 [4122] livestat timeupdate delay: 1.957 buffer: 1.352 throughput: 13890.000 
+Debug.js:127 [4125] livestat timeupdate delay: 1.960 buffer: 1.352 throughput: 13890.000 
+Debug.js:127 [4267] livestat chunk loading completed in: 0.168 video throughput: 13075 
+Debug.js:127 [4519] livestat chunk loading started 
+Debug.js:127 [4525] livestat chunk loading completed in: 0.005 audio throughput: 4786 
+Debug.js:127 [4527] livestat chunk loading started 
+Debug.js:127 [4543] livestat chunk loading started 
+Debug.js:127 [4549] livestat chunk loading started 
+Debug.js:127 [4583] livestat chunk loading started 
+Debug.js:127 [4609] livestat chunk loading completed in: 0.082 video throughput: 12688 
+Debug.js:127 [4622] livestat timeupdate delay: 1.956 buffer: 1.851 throughput: 13890.000 
+Debug.js:127 [4623] livestat timeupdate delay: 1.957 buffer: 1.851 throughput: 13890.000 
+Debug.js:127 [4666] livestat chunk loading completed in: 0.083 video throughput: 11678 
+Debug.js:127 [4803] livestat chunk loading completed in: 0.260 video throughput: 9866 
+Debug.js:127 [4822] livestat chunk loading completed in: 0.272 video throughput: 9568 
+Debug.js:127 [4890] livestat timeupdate delay: 1.956 buffer: 1.583 throughput: 13890.000 
+Debug.js:127 [4891] livestat timeupdate delay: 1.957 buffer: 1.583 throughput: 13890.000 
+Debug.js:127 [5374] livestat timeupdate delay: 1.956 buffer: 1.099 throughput: 13890.000 
+Debug.js:127 [5375] livestat timeupdate delay: 1.957 buffer: 1.099 throughput: 13890.000 
+Debug.js:127 [5518] livestat chunk loading started 
+Debug.js:127 [5539] livestat chunk loading started 
+Debug.js:127 [5545] livestat chunk loading started 
+Debug.js:127 [5549] livestat chunk loading completed in: 0.003 audio throughput: 4843 
+Debug.js:127 [5551] livestat chunk loading started 
+Debug.js:127 [5563] livestat chunk loading completed in: 0.045 video throughput: 9257 
+Debug.js:127 [5566] livestat chunk loading started 
+Debug.js:127 [5617] livestat chunk loading completed in: 0.050 video throughput: 8579 
+Debug.js:127 [5774] livestat chunk loading completed in: 0.235 video throughput: 7066 
+Debug.js:127 [5830] livestat chunk loading completed in: 0.279 video throughput: 6465 
+Debug.js:127 [5872] livestat timeupdate delay: 1.957 buffer: 1.602 throughput: 13890.000 
+Debug.js:127 [5872] livestat timeupdate delay: 1.957 buffer: 1.602 throughput: 13890.000 
+Debug.js:127 [6121] livestat timeupdate delay: 1.956 buffer: 1.352 throughput: 13890.000 
+Debug.js:127 [6122] livestat timeupdate delay: 1.957 buffer: 1.352 throughput: 13890.000 
+Debug.js:127 [6378] livestat timeupdate delay: 1.956 buffer: 1.095 throughput: 13890.000 
+Debug.js:127 [6378] livestat timeupdate delay: 1.956 buffer: 1.095 throughput: 13890.000 
+Debug.js:127 [6518] livestat chunk loading started 
+Debug.js:127 [6527] livestat chunk loading started 
+Debug.js:127 [6540] livestat chunk loading started 
+Debug.js:127 [6546] livestat chunk loading completed in: 0.006 audio throughput: 4735 
+Debug.js:127 [6547] livestat chunk loading started 
+Debug.js:127 [6555] livestat chunk loading started 
+Debug.js:127 [6579] livestat chunk loading completed in: 0.061 video throughput: 6571 
+Debug.js:127 [6612] livestat chunk loading completed in: 0.057 video throughput: 6706 
+Debug.js:127 [6736] livestat chunk loading completed in: 0.209 video throughput: 6989 
+Debug.js:127 [6820] livestat chunk loading completed in: 0.272 video throughput: 6989 
+Debug.js:127 [6871] livestat timeupdate delay: 1.956 buffer: 1.602 throughput: 13890.000 
+Debug.js:127 [6872] livestat timeupdate delay: 1.957 buffer: 1.602 throughput: 13890.000 
+Debug.js:127 [7371] livestat timeupdate delay: 1.957 buffer: 1.103 throughput: 13890.000 
+Debug.js:127 [7372] livestat timeupdate delay: 1.958 buffer: 1.103 throughput: 13890.000 
+Debug.js:127 [7519] livestat chunk loading started 
+Debug.js:127 [7522] livestat chunk loading completed in: 0.003 audio throughput: 4846 
+Debug.js:127 [7523] livestat chunk loading started 
+Debug.js:127 [7531] livestat chunk loading started 
+Debug.js:127 [7538] livestat chunk loading started 
+Debug.js:127 [7551] livestat chunk loading started 
+Debug.js:127 [7569] livestat chunk loading completed in: 0.046 video throughput: 6984 
+Debug.js:127 [7615] livestat chunk loading completed in: 0.064 video throughput: 6904 
+Debug.js:127 [7622] livestat timeupdate delay: 1.956 buffer: 1.852 throughput: 13890.000 
+Debug.js:127 [7622] livestat timeupdate delay: 1.957 buffer: 1.852 throughput: 13890.000 
+Debug.js:127 [7783] livestat chunk loading completed in: 0.245 video throughput: 6848 
+Debug.js:127 [7828] livestat chunk loading completed in: 0.296 video throughput: 6755 
+Debug.js:127 [8121] livestat timeupdate delay: 1.957 buffer: 1.353 throughput: 13890.000 
+Debug.js:127 [8122] livestat timeupdate delay: 1.957 buffer: 1.353 throughput: 13890.000 
+Debug.js:127 [8371] livestat timeupdate delay: 1.956 buffer: 1.102 throughput: 13890.000 
+Debug.js:127 [8372] livestat timeupdate delay: 1.957 buffer: 1.102 throughput: 13890.000 
+Debug.js:127 [8518] livestat chunk loading started 
+Debug.js:127 [8526] livestat chunk loading started 
+Debug.js:127 [8531] livestat chunk loading completed in: 0.005 audio throughput: 12906 
+Debug.js:127 [8535] livestat chunk loading started 
+Debug.js:127 [8541] livestat chunk loading started 
+Debug.js:127 [8553] livestat chunk loading started 
+Debug.js:127 [8569] livestat chunk loading completed in: 0.051 video throughput: 6809 
+Debug.js:127 [8610] livestat chunk loading completed in: 0.056 video throughput: 6815 
+Debug.js:127 [8621] livestat timeupdate delay: 1.956 buffer: 1.852 throughput: 13890.000 
+Debug.js:127 [8622] livestat timeupdate delay: 1.957 buffer: 1.852 throughput: 13890.000 
+Debug.js:127 [8780] livestat chunk loading completed in: 0.239 video throughput: 6654 
+Debug.js:127 [8819] livestat chunk loading completed in: 0.283 video throughput: 6596 
+Debug.js:127 [9121] livestat timeupdate delay: 1.956 buffer: 1.352 throughput: 13890.000 
+Debug.js:127 [9122] livestat timeupdate delay: 1.957 buffer: 1.352 throughput: 13890.000 
+Debug.js:127 [9518] livestat chunk loading started 
+Debug.js:127 [9526] livestat chunk loading started 
+Debug.js:127 [9539] livestat chunk loading started 
+Debug.js:127 [9544] livestat chunk loading completed in: 0.005 audio throughput: 12177 
+Debug.js:127 [9546] livestat chunk loading started 
+Debug.js:127 [9560] livestat loadend index: 188022055 time passed: 6.796 
+Debug.js:127 [9561] livestat chunk loading started 
+Debug.js:127 [9572] livestat chunk loading completed in: 0.054 video throughput: 6555 
+Debug.js:127 [9582] livestat loadend index: 188022055 time passed: 6.648 
+Debug.js:127 [9621] livestat chunk loading completed in: 0.059 video throughput: 6581 
+Debug.js:127 [9628] livestat loadend index: 188022055 time passed: 6.731 
+Debug.js:127 [9630] livestat timeupdate delay: 1.956 buffer: 1.843 throughput: 10620.000 
+Debug.js:127 [9631] livestat timeupdate delay: 1.957 buffer: 1.843 throughput: 10620.000 
+Debug.js:127 [9792] livestat chunk loading started 
+Debug.js:127 [9804] livestat chunk loading completed in: 0.278 video throughput: 6416 
+Debug.js:127 [9842] livestat loadend index: 188022055 time passed: 6.261 
+Debug.js:127 [9863] livestat chunk loading completed in: 0.316 video throughput: 6320 
+Debug.js:127 [9904] livestat loadend index: 188022055 time passed: 6.111 
+Debug.js:127 [9930] livestat timeupdate delay: 1.956 buffer: 1.411 throughput: 7348.000 
+Debug.js:127 [9930] livestat timeupdate delay: 1.957 buffer: 1.411 throughput: 7348.000 
+Debug.js:127 [9984] livestat chunk loading completed in: 0.192 video throughput: 7138 
+Debug.js:127 [10154] livestat chunk loading completed in: 0.169 video throughput: 7952 
+Debug.js:127 [10320] livestat chunk loading completed in: 0.167 video throughput: 9120 
+Debug.js:127 [10372] livestat timeupdate delay: 1.957 buffer: 1.102 throughput: 7348.000 
+Debug.js:127 [10373] livestat timeupdate delay: 1.958 buffer: 1.102 throughput: 7348.000 
+Debug.js:127 [10491] livestat chunk loading completed in: 0.171 video throughput: 9846 
+Debug.js:127 [10636] livestat timeupdate delay: 1.956 buffer: 0.837 throughput: 7348.000 
+Debug.js:127 [10636] livestat timeupdate delay: 1.956 buffer: 0.837 throughput: 7348.000 
+Debug.js:127 [10662] livestat chunk loading completed in: 0.171 video throughput: 10469 
+Debug.js:127 [10844] livestat chunk loading completed in: 0.182 video throughput: 10962 
+Debug.js:127 [10902] livestat chunk loading started 
+Debug.js:127 [10908] livestat chunk loading completed in: 0.006 audio throughput: 11530 
+Debug.js:127 [10996] livestat chunk loading completed in: 0.152 video throughput: 12660 
+Debug.js:127 [11050] livestat chunk loading started 
+Debug.js:127 [11124] livestat timeupdate delay: 2.072 buffer: 0.465 throughput: 7348.000 
+Debug.js:127 [11124] livestat timeupdate delay: 2.072 buffer: 0.465 throughput: 7348.000 
+Debug.js:127 [11206] livestat chunk loading started 
+Debug.js:127 [11223] livestat chunk loading completed in: 0.226 video throughput: 13457 
+Debug.js:127 [11257] livestat loadend index: 188022055 time passed: 7.446 
+Debug.js:127 [11276] livestat chunk loading completed in: 0.069 video throughput: 13117 
+Debug.js:127 [11280] livestat chunk loading completed in: 0.230 video throughput: 11655 
+Debug.js:127 [11518] livestat chunk loading started 
+Debug.js:127 [11522] livestat chunk loading completed in: 0.004 audio throughput: 11515 
+Debug.js:127 [11525] livestat chunk loading started 
+Debug.js:127 [11538] livestat chunk loading started 
+Debug.js:127 [11570] livestat chunk loading completed in: 0.045 video throughput: 11110 
+Debug.js:127 [11622] livestat timeupdate delay: 2.235 buffer: 2.130 throughput: 9050.000 
+Debug.js:127 [11623] livestat timeupdate delay: 2.236 buffer: 2.130 throughput: 9050.000 
+Debug.js:127 [11631] livestat chunk loading completed in: 0.093 video throughput: 10825 
+Debug.js:127 [12121] livestat timeupdate delay: 2.235 buffer: 1.631 throughput: 9050.000 
+Debug.js:127 [12124] livestat timeupdate delay: 2.238 buffer: 1.631 throughput: 9050.000 
+Debug.js:127 [12371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 9050.000 
+Debug.js:127 [12372] livestat timeupdate delay: 2.236 buffer: 1.381 throughput: 9050.000 
+Debug.js:127 [12525] livestat chunk loading started 
+Debug.js:127 [12532] livestat chunk loading started 
+Debug.js:127 [12540] livestat chunk loading started 
+Debug.js:127 [12543] livestat chunk loading completed in: 0.003 audio throughput: 12183 
+Debug.js:127 [12553] livestat chunk loading completed in: 0.029 video throughput: 10276 
+Debug.js:127 [12634] livestat chunk loading completed in: 0.102 video throughput: 9877 
+Debug.js:127 [12637] livestat timeupdate delay: 2.235 buffer: 1.981 throughput: 9050.000 
+Debug.js:127 [12638] livestat timeupdate delay: 2.236 buffer: 1.981 throughput: 9050.000 
+Debug.js:127 [13121] livestat timeupdate delay: 2.235 buffer: 1.631 throughput: 9050.000 
+Debug.js:127 [13122] livestat timeupdate delay: 2.236 buffer: 1.631 throughput: 9050.000 
+Debug.js:127 [13371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 9050.000 
+Debug.js:127 [13372] livestat timeupdate delay: 2.236 buffer: 1.381 throughput: 9050.000 
+Debug.js:127 [13518] livestat chunk loading started 
+Debug.js:127 [13522] livestat chunk loading completed in: 0.004 audio throughput: 11836 
+Debug.js:127 [13525] livestat chunk loading started 
+Debug.js:127 [13530] livestat chunk loading started 
+Debug.js:127 [13554] livestat chunk loading completed in: 0.029 video throughput: 8801 
+Debug.js:127 [13624] livestat timeupdate delay: 2.234 buffer: 2.127 throughput: 9050.000 
+Debug.js:127 [13625] livestat timeupdate delay: 2.235 buffer: 2.127 throughput: 9050.000 
+Debug.js:127 [13627] livestat chunk loading completed in: 0.097 video throughput: 8708 
+Debug.js:127 [14121] livestat timeupdate delay: 2.235 buffer: 1.631 throughput: 9050.000 
+Debug.js:127 [14122] livestat timeupdate delay: 2.236 buffer: 1.631 throughput: 9050.000 
+Debug.js:127 [14371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 9050.000 
+Debug.js:127 [14372] livestat timeupdate delay: 2.236 buffer: 1.381 throughput: 9050.000 
+Debug.js:127 [14519] livestat chunk loading started 
+Debug.js:127 [14528] livestat chunk loading started 
+Debug.js:127 [14532] livestat chunk loading completed in: 0.003 audio throughput: 12920 
+Debug.js:127 [14534] livestat chunk loading started 
+Debug.js:127 [14554] livestat chunk loading completed in: 0.034 video throughput: 9170 
+Debug.js:127 [14622] livestat timeupdate delay: 2.235 buffer: 2.130 throughput: 9050.000 
+Debug.js:127 [14622] livestat timeupdate delay: 2.235 buffer: 2.130 throughput: 9050.000 
+Debug.js:127 [14629] livestat chunk loading completed in: 0.095 video throughput: 11533 
+Debug.js:127 [15121] livestat timeupdate delay: 2.235 buffer: 1.631 throughput: 9050.000 
+Debug.js:127 [15122] livestat timeupdate delay: 2.236 buffer: 1.631 throughput: 9050.000 
+Debug.js:127 [15371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 9050.000 
+Debug.js:127 [15372] livestat timeupdate delay: 2.236 buffer: 1.381 throughput: 9050.000 
+Debug.js:127 [15518] livestat chunk loading started 
+Debug.js:127 [15531] livestat chunk loading started 
+Debug.js:127 [15535] livestat chunk loading completed in: 0.004 audio throughput: 12526 
+Debug.js:127 [15536] livestat chunk loading started 
+Debug.js:127 [15554] livestat chunk loading completed in: 0.036 video throughput: 11735 
+Debug.js:127 [15628] livestat chunk loading completed in: 0.092 video throughput: 11757 
+Debug.js:127 [15871] livestat timeupdate delay: 2.235 buffer: 1.881 throughput: 9050.000 
+Debug.js:127 [15871] livestat timeupdate delay: 2.235 buffer: 1.881 throughput: 9050.000 
+Debug.js:127 [16382] livestat timeupdate delay: 2.234 buffer: 1.369 throughput: 9050.000 
+Debug.js:127 [16383] livestat timeupdate delay: 2.235 buffer: 1.369 throughput: 9050.000 
+Debug.js:127 [16519] livestat chunk loading started 
+Debug.js:127 [16522] livestat chunk loading completed in: 0.003 audio throughput: 13319 
+Debug.js:127 [16525] livestat chunk loading started 
+Debug.js:127 [16531] livestat chunk loading started 
+Debug.js:127 [16552] livestat chunk loading completed in: 0.027 video throughput: 11803 
+Debug.js:127 [16630] livestat chunk loading completed in: 0.098 video throughput: 11896 
+Debug.js:127 [16871] livestat timeupdate delay: 2.235 buffer: 1.881 throughput: 9050.000 
+Debug.js:127 [16872] livestat timeupdate delay: 2.236 buffer: 1.881 throughput: 9050.000 
+Debug.js:127 [17371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 9050.000 
+Debug.js:127 [17372] livestat timeupdate delay: 2.236 buffer: 1.381 throughput: 9050.000 
+Debug.js:127 [17519] livestat chunk loading started 
+Debug.js:127 [17526] livestat chunk loading started 
+Debug.js:127 [17535] livestat chunk loading started 
+Debug.js:127 [17544] livestat chunk loading completed in: 0.009 audio throughput: 11839 
+Debug.js:127 [17548] livestat loadend index: 188022056 time passed: 6.773 
+Debug.js:127 [17569] livestat chunk loading completed in: 0.043 video throughput: 11577 
+Debug.js:127 [17578] livestat loadend index: 188022056 time passed: 6.529 
+Debug.js:127 [17628] livestat chunk loading completed in: 0.109 video throughput: 11317 
+Debug.js:127 [17650] livestat loadend index: 188022056 time passed: 6.769 
+Debug.js:127 [17872] livestat timeupdate delay: 2.235 buffer: 1.880 throughput: 10742.000 
+Debug.js:127 [17873] livestat timeupdate delay: 2.236 buffer: 1.880 throughput: 10742.000 
+Debug.js:127 [18371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [18372] livestat timeupdate delay: 2.236 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [18626] livestat timeupdate delay: 2.234 buffer: 1.125 throughput: 10742.000 
+Debug.js:127 [18627] livestat timeupdate delay: 2.235 buffer: 1.125 throughput: 10742.000 
+Debug.js:127 [18863] livestat chunk loading started 
+Debug.js:127 [18883] livestat chunk loading completed in: 0.020 video throughput: 11622 
+Debug.js:127 [19121] livestat timeupdate delay: 2.235 buffer: 1.631 throughput: 10742.000 
+Debug.js:127 [19123] livestat timeupdate delay: 2.237 buffer: 1.631 throughput: 10742.000 
+Debug.js:127 [19278] livestat chunk loading started 
+Debug.js:127 [19280] livestat chunk loading completed in: 0.002 audio throughput: 13311 
+Debug.js:127 [19371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [19372] livestat timeupdate delay: 2.236 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [19518] livestat chunk loading started 
+Debug.js:127 [19521] livestat chunk loading completed in: 0.003 audio throughput: 13739 
+Debug.js:127 [19523] livestat chunk loading started 
+Debug.js:127 [19542] livestat chunk loading completed in: 0.019 video throughput: 11584 
+Debug.js:127 [19871] livestat timeupdate delay: 2.235 buffer: 1.881 throughput: 10742.000 
+Debug.js:127 [19874] livestat timeupdate delay: 2.238 buffer: 1.881 throughput: 10742.000 
+Debug.js:127 [20371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [20372] livestat timeupdate delay: 2.236 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [20519] livestat chunk loading started 
+Debug.js:127 [20527] livestat chunk loading started 
+Debug.js:127 [20531] livestat chunk loading completed in: 0.003 audio throughput: 13741 
+Debug.js:127 [20545] livestat chunk loading completed in: 0.026 video throughput: 11851 
+Debug.js:127 [20871] livestat timeupdate delay: 2.235 buffer: 1.881 throughput: 10742.000 
+Debug.js:127 [20872] livestat timeupdate delay: 2.236 buffer: 1.881 throughput: 10742.000 
+Debug.js:127 [21121] livestat timeupdate delay: 2.235 buffer: 1.631 throughput: 10742.000 
+Debug.js:127 [21122] livestat timeupdate delay: 2.236 buffer: 1.631 throughput: 10742.000 
+Debug.js:127 [21371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [21371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [21521] livestat chunk loading started 
+Debug.js:127 [21524] livestat chunk loading completed in: 0.003 audio throughput: 14214 
+Debug.js:127 [21526] livestat chunk loading started 
+Debug.js:127 [21544] livestat chunk loading completed in: 0.018 video throughput: 11786 
+Debug.js:127 [21872] livestat timeupdate delay: 2.235 buffer: 1.880 throughput: 10742.000 
+Debug.js:127 [21873] livestat timeupdate delay: 2.236 buffer: 1.880 throughput: 10742.000 
+Debug.js:127 [22371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [22372] livestat timeupdate delay: 2.236 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [22519] livestat chunk loading started 
+Debug.js:127 [22527] livestat chunk loading started 
+Debug.js:127 [22530] livestat chunk loading completed in: 0.003 audio throughput: 14208 
+Debug.js:127 [22544] livestat chunk loading completed in: 0.024 video throughput: 11885 
+Debug.js:127 [22621] livestat timeupdate delay: 2.235 buffer: 2.131 throughput: 10742.000 
+Debug.js:127 [22622] livestat timeupdate delay: 2.236 buffer: 2.131 throughput: 10742.000 
+Debug.js:127 [23121] livestat timeupdate delay: 2.235 buffer: 1.631 throughput: 10742.000 
+Debug.js:127 [23122] livestat timeupdate delay: 2.236 buffer: 1.631 throughput: 10742.000 
+Debug.js:127 [23371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [23372] livestat timeupdate delay: 2.236 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [23519] livestat chunk loading started 
+Debug.js:127 [23522] livestat chunk loading completed in: 0.002 audio throughput: 15217 
+Debug.js:127 [23525] livestat chunk loading started 
+Debug.js:127 [23543] livestat chunk loading completed in: 0.018 video throughput: 12069 
+Debug.js:127 [23621] livestat timeupdate delay: 2.234 buffer: 2.130 throughput: 10742.000 
+Debug.js:127 [23621] livestat timeupdate delay: 2.234 buffer: 2.130 throughput: 10742.000 
+Debug.js:127 [23873] livestat timeupdate delay: 2.235 buffer: 1.879 throughput: 10742.000 
+Debug.js:127 [23874] livestat timeupdate delay: 2.236 buffer: 1.879 throughput: 10742.000 
+Debug.js:127 [24371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [24372] livestat timeupdate delay: 2.236 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [24521] livestat chunk loading started 
+Debug.js:127 [24528] livestat chunk loading started 
+Debug.js:127 [24531] livestat chunk loading completed in: 0.003 audio throughput: 15208 
+Debug.js:127 [24545] livestat chunk loading completed in: 0.024 video throughput: 12957 
+Debug.js:127 [24621] livestat timeupdate delay: 2.235 buffer: 2.131 throughput: 10742.000 
+Debug.js:127 [24622] livestat timeupdate delay: 2.236 buffer: 2.131 throughput: 10742.000 
+Debug.js:127 [24876] livestat timeupdate delay: 2.234 buffer: 1.875 throughput: 10742.000 
+Debug.js:127 [24877] livestat timeupdate delay: 2.235 buffer: 1.875 throughput: 10742.000 
+Debug.js:127 [25371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [25372] livestat timeupdate delay: 2.236 buffer: 1.381 throughput: 10742.000 
+Debug.js:127 [25519] livestat chunk loading started 
+Debug.js:127 [25529] livestat chunk loading completed in: 0.010 audio throughput: 14681 
+Debug.js:127 [25531] livestat chunk loading started 
+Debug.js:127 [25537] livestat loadend index: 188022057 time passed: 6.274 
+Debug.js:127 [25545] livestat chunk loading completed in: 0.014 video throughput: 14987 
+Debug.js:127 [25550] livestat loadend index: 188022057 time passed: 6.708 
+Debug.js:127 [25879] livestat timeupdate delay: 2.234 buffer: 1.872 throughput: 11972.000 
+Debug.js:127 [25880] livestat timeupdate delay: 2.235 buffer: 1.872 throughput: 11972.000 
+Debug.js:127 [26371] livestat timeupdate delay: 2.235 buffer: 1.381 throughput: 11972.000 
+Debug.js:127 [26372] livestat timeupdate delay: 2.236 buffer: 1.381 throughput: 11972.000 
+Debug.js:127 [26621] livestat timeupdate delay: 2.235 buffer: 1.131 throughput: 11972.000 
+Debug.js:127 [26622] livestat timeupdate delay: 2.236 buffer: 1.131 throughput: 11972.000 
+Debug.js:127 [26873] livestat chunk loading started 
+Debug.js:127 [26893] livestat chunk loading completed in: 0.020 video throughput: 14987 
+Debug.js:127 [27121] livestat timeupdate delay: 2.235 buffer: 1.631 throughput: 11972.000 
+Debug.js:127 [27122] livestat timeupdate delay: 2.236 buffer: 1.631 throughput: 11972.000 
+Debug.js:127 [27286] livestat chunk loading started 
+Debug.js:127 [27292] livestat chunk loading completed in: 0.006 audio throughput: 12912 
+Debug.js:127 [27371] livestat timeupdate delay: 2.234 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [27372] livestat timeupdate delay: 2.235 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [27520] livestat chunk loading started 
+Debug.js:127 [27524] livestat chunk loading completed in: 0.004 audio throughput: 12539 
+Debug.js:127 [27527] livestat chunk loading started 
+Debug.js:127 [27569] livestat chunk loading completed in: 0.042 video throughput: 13134 
+Debug.js:127 [27871] livestat timeupdate delay: 2.234 buffer: 1.880 throughput: 11972.000 
+Debug.js:127 [27872] livestat timeupdate delay: 2.235 buffer: 1.880 throughput: 11972.000 
+Debug.js:127 [28121] livestat timeupdate delay: 2.234 buffer: 1.630 throughput: 11972.000 
+Debug.js:127 [28122] livestat timeupdate delay: 2.235 buffer: 1.630 throughput: 11972.000 
+Debug.js:127 [28371] livestat timeupdate delay: 2.234 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [28372] livestat timeupdate delay: 2.235 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [28518] livestat chunk loading started 
+Debug.js:127 [28522] livestat chunk loading completed in: 0.004 audio throughput: 12176 
+Debug.js:127 [28525] livestat chunk loading started 
+Debug.js:127 [28543] livestat chunk loading completed in: 0.017 video throughput: 13802 
+Debug.js:127 [28875] livestat timeupdate delay: 2.234 buffer: 1.876 throughput: 11972.000 
+Debug.js:127 [28876] livestat timeupdate delay: 2.235 buffer: 1.876 throughput: 11972.000 
+Debug.js:127 [29371] livestat timeupdate delay: 2.234 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [29372] livestat timeupdate delay: 2.235 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [29521] livestat chunk loading started 
+Debug.js:127 [29524] livestat chunk loading completed in: 0.003 audio throughput: 12169 
+Debug.js:127 [29527] livestat chunk loading started 
+Debug.js:127 [29543] livestat chunk loading completed in: 0.016 video throughput: 13959 
+Debug.js:127 [29873] livestat timeupdate delay: 2.235 buffer: 1.879 throughput: 11972.000 
+Debug.js:127 [29874] livestat timeupdate delay: 2.236 buffer: 1.879 throughput: 11972.000 
+Debug.js:127 [30371] livestat timeupdate delay: 2.234 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [30372] livestat timeupdate delay: 2.235 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [30523] livestat chunk loading started 
+Debug.js:127 [30525] livestat chunk loading completed in: 0.002 audio throughput: 12529 
+Debug.js:127 [30527] livestat chunk loading started 
+Debug.js:127 [30545] livestat chunk loading completed in: 0.018 video throughput: 14455 
+Debug.js:127 [30871] livestat timeupdate delay: 2.234 buffer: 1.880 throughput: 11972.000 
+Debug.js:127 [30872] livestat timeupdate delay: 2.235 buffer: 1.880 throughput: 11972.000 
+Debug.js:127 [31371] livestat timeupdate delay: 2.234 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [31372] livestat timeupdate delay: 2.235 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [31519] livestat chunk loading started 
+Debug.js:127 [31527] livestat chunk loading started 
+Debug.js:127 [31530] livestat chunk loading completed in: 0.003 audio throughput: 12172 
+Debug.js:127 [31547] livestat chunk loading completed in: 0.028 video throughput: 13647 
+Debug.js:127 [31871] livestat timeupdate delay: 2.234 buffer: 1.880 throughput: 11972.000 
+Debug.js:127 [31872] livestat timeupdate delay: 2.235 buffer: 1.880 throughput: 11972.000 
+Debug.js:127 [32121] livestat timeupdate delay: 2.234 buffer: 1.630 throughput: 11972.000 
+Debug.js:127 [32122] livestat timeupdate delay: 2.235 buffer: 1.630 throughput: 11972.000 
+Debug.js:127 [32371] livestat timeupdate delay: 2.234 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [32375] livestat timeupdate delay: 2.235 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [32518] livestat chunk loading started 
+Debug.js:127 [32522] livestat chunk loading completed in: 0.004 audio throughput: 11831 
+Debug.js:127 [32524] livestat chunk loading started 
+Debug.js:127 [32543] livestat chunk loading completed in: 0.019 video throughput: 14040 
+Debug.js:127 [32876] livestat timeupdate delay: 2.234 buffer: 1.876 throughput: 11972.000 
+Debug.js:127 [32876] livestat timeupdate delay: 2.235 buffer: 1.876 throughput: 11972.000 
+Debug.js:127 [33371] livestat timeupdate delay: 2.234 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [33372] livestat timeupdate delay: 2.235 buffer: 1.380 throughput: 11972.000 
+Debug.js:127 [33522] livestat chunk loading started 
+Debug.js:127 [33524] livestat chunk loading completed in: 0.002 audio throughput: 15231 
+Debug.js:127 [33527] livestat chunk loading started 
+Debug.js:127 [33533] livestat loadend index: 188022058 time passed: 6.261 
+Debug.js:127 [33544] livestat chunk loading completed in: 0.017 video throughput: 13802 
+Debug.js:127 [33552] livestat loadend index: 188022058 time passed: 6.700 
+Debug.js:127 [33729] livestat chunk loading started 
+Debug.js:127 [33871] livestat timeupdate delay: 2.234 buffer: 1.880 throughput: 10824.000 
+Debug.js:127 [33872] livestat timeupdate delay: 2.235 buffer: 1.880 throughput: 10824.000 
+Debug.js:127 [33896] livestat chunk loading completed in: 0.166 video throughput: 14065 
+Debug.js:127 [34064] livestat chunk loading completed in: 0.169 video throughput: 14762 
+Debug.js:127 [34204] livestat timeupdate delay: 2.235 buffer: 1.548 throughput: 10824.000 
+Debug.js:127 [34208] livestat timeupdate delay: 2.238 buffer: 1.548 throughput: 10824.000 
+Debug.js:127 [34238] livestat chunk loading completed in: 0.170 video throughput: 14500 
+Debug.js:127 [34403] livestat chunk loading completed in: 0.166 video throughput: 14400 
+Debug.js:127 [34569] livestat chunk loading completed in: 0.169 video throughput: 14318 
+Debug.js:127 [34621] livestat timeupdate delay: 2.234 buffer: 1.130 throughput: 10824.000 
+Debug.js:127 [34622] livestat timeupdate delay: 2.235 buffer: 1.130 throughput: 10824.000 
+Debug.js:127 [34747] livestat chunk loading completed in: 0.178 video throughput: 14273 
+Debug.js:127 [34905] livestat chunk loading completed in: 0.158 video throughput: 14370 
+Debug.js:127 [35029] livestat chunk loading started 
+Debug.js:127 [35097] livestat chunk loading completed in: 0.192 video throughput: 14067 
+Debug.js:127 [35130] livestat loadend index: 188022058 time passed: 1.543 
+Debug.js:127 [35161] livestat timeupdate delay: 2.235 buffer: 0.458 throughput: 12871.000 
+Debug.js:127 [35161] livestat timeupdate delay: 2.235 buffer: 0.458 throughput: 12871.000 
+Debug.js:127 [35166] livestat chunk loading started 
+Debug.js:127 [35253] livestat chunk loading started 
+Debug.js:127 [35256] livestat chunk loading completed in: 0.003 audio throughput: 17035 
+Debug.js:127 [35324] livestat chunk loading completed in: 0.294 video throughput: 12863 
+Debug.js:127 [35400] livestat timeupdate delay: 2.281 buffer: 1.398 throughput: 12871.000 
+Debug.js:127 [35401] livestat timeupdate delay: 2.282 buffer: 1.398 throughput: 12871.000 
+Debug.js:127 [35406] livestat chunk loading started 
+Debug.js:127 [35431] livestat chunk loading completed in: 0.265 video throughput: 12088 
+Debug.js:127 [35559] livestat chunk loading started 
+Debug.js:127 [35575] livestat chunk loading started 
+Debug.js:127 [35577] livestat chunk loading completed in: 0.002 audio throughput: 18519 
+Debug.js:127 [35607] livestat chunk loading completed in: 0.200 video throughput: 11864 
+Debug.js:127 [35647] livestat chunk loading started 
+Debug.js:127 [35944] livestat timeupdate delay: 2.281 buffer: 0.854 throughput: 12871.000 
+Debug.js:127 [35944] livestat timeupdate delay: 2.281 buffer: 0.854 throughput: 12871.000 
+Debug.js:127 [36064] livestat chunk loading completed in: 0.458 video throughput: 10054 
+Debug.js:127 [36074] livestat chunk loading completed in: 0.515 video throughput: 8515 
+Debug.js:127 [36095] livestat chunk loading completed in: 0.448 video throughput: 7606 
+Debug.js:127 [36371] livestat timeupdate delay: 2.281 buffer: 1.427 throughput: 12871.000 
+Debug.js:127 [36372] livestat timeupdate delay: 2.282 buffer: 1.427 throughput: 12871.000 
+Debug.js:127 [36519] livestat chunk loading started 
+Debug.js:127 [36542] livestat chunk loading started 
+Debug.js:127 [36544] livestat chunk loading completed in: 0.002 audio throughput: 20301 
+Debug.js:127 [36547] livestat chunk loading started 
+Debug.js:127 [36565] livestat chunk loading started 
+Debug.js:127 [36897] livestat timeupdate delay: 2.281 buffer: 0.901 throughput: 12871.000 
+Debug.js:127 [36897] livestat timeupdate delay: 2.281 buffer: 0.901 throughput: 12871.000 
+Debug.js:127 [36933] livestat chunk loading completed in: 0.385 video throughput: 6980 
+Debug.js:127 [37006] livestat chunk loading completed in: 0.440 video throughput: 6404 
+Debug.js:127 [37034] livestat chunk loading completed in: 0.514 video throughput: 5967 
+Debug.js:127 [37371] livestat timeupdate delay: 2.281 buffer: 1.427 throughput: 12871.000 
+Debug.js:127 [37372] livestat timeupdate delay: 2.282 buffer: 1.427 throughput: 12871.000 
+Debug.js:127 [37519] livestat chunk loading started 
+Debug.js:127 [37527] livestat chunk loading started 
+Debug.js:127 [37532] livestat chunk loading completed in: 0.004 audio throughput: 19384 
+Debug.js:127 [37534] livestat chunk loading started 
+Debug.js:127 [37539] livestat chunk loading started 
+Debug.js:127 [37621] livestat timeupdate delay: 2.280 buffer: 1.176 throughput: 12871.000 
+Debug.js:127 [37622] livestat timeupdate delay: 2.281 buffer: 1.176 throughput: 12871.000 
+Debug.js:127 [37880] livestat timeupdate delay: 2.280 buffer: 0.918 throughput: 12871.000 
+Debug.js:127 [37880] livestat timeupdate delay: 2.281 buffer: 0.918 throughput: 12871.000 
+Debug.js:127 [37998] livestat chunk loading completed in: 0.457 video throughput: 5632 
+Debug.js:127 [38034] livestat chunk loading completed in: 0.500 video throughput: 5177 
+Debug.js:127 [38040] livestat chunk loading completed in: 0.521 video throughput: 5091 
+Debug.js:127 [38372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 12871.000 
+Debug.js:127 [38372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 12871.000 
+Debug.js:127 [38519] livestat chunk loading started 
+Debug.js:127 [38524] livestat chunk loading completed in: 0.005 audio throughput: 17046 
+Debug.js:127 [38528] livestat chunk loading started 
+Debug.js:127 [38533] livestat chunk loading started 
+Debug.js:127 [38538] livestat chunk loading started 
+Debug.js:127 [38624] livestat timeupdate delay: 2.280 buffer: 1.173 throughput: 12871.000 
+Debug.js:127 [38624] livestat timeupdate delay: 2.280 buffer: 1.173 throughput: 12871.000 
+Debug.js:127 [38958] livestat chunk loading completed in: 0.425 video throughput: 5215 
+Debug.js:127 [39025] livestat chunk loading completed in: 0.498 video throughput: 5145 
+Debug.js:127 [39029] livestat chunk loading completed in: 0.490 video throughput: 5005 
+Debug.js:127 [39121] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 12871.000 
+Debug.js:127 [39123] livestat timeupdate delay: 2.282 buffer: 1.676 throughput: 12871.000 
+Debug.js:127 [39371] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 12871.000 
+Debug.js:127 [39372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 12871.000 
+Debug.js:127 [39519] livestat chunk loading started 
+Debug.js:127 [39535] livestat chunk loading started 
+Debug.js:127 [39543] livestat chunk loading started 
+Debug.js:127 [39561] livestat chunk loading started 
+Debug.js:127 [39571] livestat chunk loading completed in: 0.010 audio throughput: 13325 
+Debug.js:127 [39623] livestat timeupdate delay: 2.281 buffer: 1.175 throughput: 12871.000 
+Debug.js:127 [39623] livestat timeupdate delay: 2.281 buffer: 1.175 throughput: 12871.000 
+Debug.js:127 [39882] livestat timeupdate delay: 2.280 buffer: 0.916 throughput: 12871.000 
+Debug.js:127 [39882] livestat timeupdate delay: 2.281 buffer: 0.916 throughput: 12871.000 
+Debug.js:127 [40021] livestat chunk loading completed in: 0.502 video throughput: 4925 
+Debug.js:127 [40040] livestat chunk loading completed in: 0.505 video throughput: 4937 
+Debug.js:127 [40043] livestat chunk loading completed in: 0.500 video throughput: 4883 
+Debug.js:127 [40371] livestat timeupdate delay: 2.281 buffer: 1.427 throughput: 12871.000 
+Debug.js:127 [40372] livestat timeupdate delay: 2.282 buffer: 1.427 throughput: 12871.000 
+Debug.js:127 [40519] livestat chunk loading started 
+Debug.js:127 [40544] livestat chunk loading started 
+Debug.js:127 [40546] livestat chunk loading completed in: 0.001 audio throughput: 14720 
+Debug.js:127 [40547] livestat chunk loading started 
+Debug.js:127 [40563] livestat chunk loading started 
+Debug.js:127 [40624] livestat timeupdate delay: 2.281 buffer: 1.174 throughput: 12871.000 
+Debug.js:127 [40624] livestat timeupdate delay: 2.281 buffer: 1.174 throughput: 12871.000 
+Debug.js:127 [40996] livestat chunk loading completed in: 0.477 video throughput: 4912 
+Debug.js:127 [41018] livestat chunk loading completed in: 0.471 video throughput: 4975 
+Debug.js:127 [41028] livestat chunk loading completed in: 0.465 video throughput: 4924 
+Debug.js:127 [41121] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 12871.000 
+Debug.js:127 [41122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 12871.000 
+Debug.js:127 [41519] livestat chunk loading started 
+Debug.js:127 [41524] livestat chunk loading completed in: 0.005 audio throughput: 13326 
+Debug.js:127 [41526] livestat chunk loading started 
+Debug.js:127 [41546] livestat loadend index: 188022059 time passed: 6.393 
+Debug.js:127 [41551] livestat chunk loading started 
+Debug.js:127 [41571] livestat chunk loading started 
+Debug.js:127 [41622] livestat timeupdate delay: 2.281 buffer: 1.176 throughput: 12871.000 
+Debug.js:127 [41622] livestat timeupdate delay: 2.281 buffer: 1.176 throughput: 12871.000 
+Debug.js:127 [41874] livestat timeupdate delay: 2.281 buffer: 0.924 throughput: 12871.000 
+Debug.js:127 [41875] livestat timeupdate delay: 2.282 buffer: 0.924 throughput: 12871.000 
+Debug.js:127 [42009] livestat chunk loading completed in: 0.482 video throughput: 4944 
+Debug.js:127 [42044] livestat loadend index: 188022059 time passed: 7.265 
+Debug.js:127 [42048] livestat chunk loading completed in: 0.497 video throughput: 4936 
+Debug.js:127 [42072] livestat chunk loading completed in: 0.501 video throughput: 4937 
+Debug.js:127 [42102] livestat loadend index: 188022059 time passed: 7.171 
+Debug.js:127 [42113] livestat loadend index: 188022059 time passed: 6.911 
+Debug.js:127 [42126] livestat timeupdate delay: 2.280 buffer: 1.539 throughput: 6321.000 
+Debug.js:127 [42126] livestat timeupdate delay: 2.281 buffer: 1.539 throughput: 6321.000 
+Debug.js:127 [42621] livestat timeupdate delay: 2.280 buffer: 1.176 throughput: 6321.000 
+Debug.js:127 [42622] livestat timeupdate delay: 2.281 buffer: 1.176 throughput: 6321.000 
+Debug.js:127 [42863] livestat chunk loading started 
+Debug.js:127 [42944] livestat chunk loading completed in: 0.081 video throughput: 5194 
+Debug.js:127 [43118] livestat chunk loading started 
+Debug.js:127 [43121] livestat timeupdate delay: 2.281 buffer: 1.677 throughput: 6321.000 
+Debug.js:127 [43122] livestat timeupdate delay: 2.282 buffer: 1.677 throughput: 6321.000 
+Debug.js:127 [43200] livestat chunk loading started 
+Debug.js:127 [43204] livestat chunk loading completed in: 0.003 audio throughput: 13327 
+Debug.js:127 [43289] livestat chunk loading completed in: 0.171 video throughput: 5737 
+Debug.js:127 [43519] livestat chunk loading started 
+Debug.js:127 [43529] livestat chunk loading started 
+Debug.js:127 [43531] livestat chunk loading started 
+Debug.js:127 [43536] livestat chunk loading completed in: 0.007 audio throughput: 11531 
+Debug.js:127 [43630] livestat timeupdate delay: 2.284 buffer: 1.172 throughput: 6321.000 
+Debug.js:127 [43630] livestat timeupdate delay: 2.285 buffer: 1.172 throughput: 6321.000 
+Debug.js:127 [43745] livestat chunk loading completed in: 0.226 video throughput: 5820 
+Debug.js:127 [43806] livestat chunk loading completed in: 0.274 video throughput: 6245 
+Debug.js:127 [43880] livestat timeupdate delay: 2.281 buffer: 1.918 throughput: 6321.000 
+Debug.js:127 [43880] livestat timeupdate delay: 2.281 buffer: 1.918 throughput: 6321.000 
+Debug.js:127 [44371] livestat timeupdate delay: 2.281 buffer: 1.427 throughput: 6321.000 
+Debug.js:127 [44372] livestat timeupdate delay: 2.282 buffer: 1.427 throughput: 6321.000 
+Debug.js:127 [44522] livestat chunk loading started 
+Debug.js:127 [44536] livestat chunk loading started 
+Debug.js:127 [44544] livestat chunk loading started 
+Debug.js:127 [44550] livestat chunk loading completed in: 0.006 audio throughput: 10388 
+Debug.js:127 [44621] livestat timeupdate delay: 2.280 buffer: 1.176 throughput: 6321.000 
+Debug.js:127 [44624] livestat timeupdate delay: 2.282 buffer: 1.176 throughput: 6321.000 
+Debug.js:127 [44678] livestat chunk loading completed in: 0.156 video throughput: 6551 
+Debug.js:127 [44780] livestat chunk loading completed in: 0.244 video throughput: 7276 
+Debug.js:127 [45121] livestat timeupdate delay: 2.281 buffer: 1.677 throughput: 6321.000 
+Debug.js:127 [45122] livestat timeupdate delay: 2.282 buffer: 1.677 throughput: 6321.000 
+Debug.js:127 [45371] livestat timeupdate delay: 2.281 buffer: 1.427 throughput: 6321.000 
+Debug.js:127 [45372] livestat timeupdate delay: 2.282 buffer: 1.427 throughput: 6321.000 
+Debug.js:127 [45519] livestat chunk loading started 
+Debug.js:127 [45530] livestat chunk loading started 
+Debug.js:127 [45533] livestat chunk loading completed in: 0.003 audio throughput: 10661 
+Debug.js:127 [45535] livestat chunk loading started 
+Debug.js:127 [45624] livestat timeupdate delay: 2.281 buffer: 1.174 throughput: 6321.000 
+Debug.js:127 [45625] livestat timeupdate delay: 2.282 buffer: 1.174 throughput: 6321.000 
+Debug.js:127 [45763] livestat chunk loading completed in: 0.244 video throughput: 7614 
+Debug.js:127 [45822] livestat chunk loading completed in: 0.286 video throughput: 8587 
+Debug.js:127 [46122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 6321.000 
+Debug.js:127 [46123] livestat timeupdate delay: 2.283 buffer: 1.676 throughput: 6321.000 
+Debug.js:127 [46378] livestat timeupdate delay: 2.282 buffer: 1.421 throughput: 6321.000 
+Debug.js:127 [46378] livestat timeupdate delay: 2.282 buffer: 1.421 throughput: 6321.000 
+Debug.js:127 [46520] livestat chunk loading started 
+Debug.js:127 [46531] livestat chunk loading started 
+Debug.js:127 [46535] livestat chunk loading completed in: 0.003 audio throughput: 11211 
+Debug.js:127 [46537] livestat chunk loading started 
+Debug.js:127 [46681] livestat chunk loading completed in: 0.161 video throughput: 8197 
+Debug.js:127 [46779] livestat chunk loading completed in: 0.242 video throughput: 7880 
+Debug.js:127 [46872] livestat timeupdate delay: 2.281 buffer: 1.926 throughput: 6321.000 
+Debug.js:127 [46872] livestat timeupdate delay: 2.281 buffer: 1.926 throughput: 6321.000 
+Debug.js:127 [47122] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 6321.000 
+Debug.js:127 [47122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 6321.000 
+Debug.js:127 [47525] livestat chunk loading started 
+Debug.js:127 [47531] livestat chunk loading started 
+Debug.js:127 [47536] livestat chunk loading started 
+Debug.js:127 [47540] livestat chunk loading completed in: 0.004 audio throughput: 13319 
+Debug.js:127 [47624] livestat timeupdate delay: 2.280 buffer: 1.173 throughput: 6321.000 
+Debug.js:127 [47625] livestat timeupdate delay: 2.281 buffer: 1.173 throughput: 6321.000 
+Debug.js:127 [47800] livestat chunk loading completed in: 0.269 video throughput: 7699 
+Debug.js:127 [47842] livestat chunk loading completed in: 0.317 video throughput: 7527 
+Debug.js:127 [48122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 6321.000 
+Debug.js:127 [48122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 6321.000 
+Debug.js:127 [48519] livestat chunk loading started 
+Debug.js:127 [48528] livestat chunk loading started 
+Debug.js:127 [48532] livestat chunk loading started 
+Debug.js:127 [48537] livestat chunk loading completed in: 0.009 audio throughput: 10645 
+Debug.js:127 [48623] livestat timeupdate delay: 2.281 buffer: 1.175 throughput: 6321.000 
+Debug.js:127 [48623] livestat timeupdate delay: 2.281 buffer: 1.175 throughput: 6321.000 
+Debug.js:127 [48665] livestat chunk loading completed in: 0.146 video throughput: 7566 
+Debug.js:127 [48775] livestat chunk loading completed in: 0.242 video throughput: 7574 
+Debug.js:127 [49121] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 6321.000 
+Debug.js:127 [49122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 6321.000 
+Debug.js:127 [49371] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 6321.000 
+Debug.js:127 [49372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 6321.000 
+Debug.js:127 [49519] livestat chunk loading started 
+Debug.js:127 [49542] livestat chunk loading started 
+Debug.js:127 [49545] livestat chunk loading completed in: 0.003 audio throughput: 11207 
+Debug.js:127 [49548] livestat chunk loading started 
+Debug.js:127 [49556] livestat loadend index: 188022060 time passed: 6.417 
+Debug.js:127 [49627] livestat timeupdate delay: 2.281 buffer: 1.171 throughput: 6321.000 
+Debug.js:127 [49627] livestat timeupdate delay: 2.281 buffer: 1.171 throughput: 6321.000 
+Debug.js:127 [49840] livestat chunk loading completed in: 0.292 video throughput: 7388 
+Debug.js:127 [49877] livestat chunk loading completed in: 0.358 video throughput: 7126 
+Debug.js:127 [49940] livestat loadend index: 188022060 time passed: 7.103 
+Debug.js:127 [49966] livestat loadend index: 188022060 time passed: 6.994 
+Debug.js:127 [49968] livestat timeupdate delay: 2.280 buffer: 1.829 throughput: 6283.000 
+Debug.js:127 [49969] livestat timeupdate delay: 2.281 buffer: 1.829 throughput: 6283.000 
+Debug.js:127 [50371] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 6283.000 
+Debug.js:127 [50372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 6283.000 
+Debug.js:127 [50621] livestat timeupdate delay: 2.280 buffer: 1.176 throughput: 6283.000 
+Debug.js:127 [50622] livestat timeupdate delay: 2.281 buffer: 1.176 throughput: 6283.000 
+Debug.js:127 [51007] livestat chunk loading started 
+Debug.js:127 [51123] livestat timeupdate delay: 2.281 buffer: 0.675 throughput: 6283.000 
+Debug.js:127 [51123] livestat timeupdate delay: 2.281 buffer: 0.675 throughput: 6283.000 
+Debug.js:127 [51185] livestat chunk loading completed in: 0.177 video throughput: 7657 
+Debug.js:127 [51303] livestat chunk loading started 
+Debug.js:127 [51309] livestat chunk loading completed in: 0.006 audio throughput: 10390 
+Debug.js:127 [51518] livestat chunk loading started 
+Debug.js:127 [51524] livestat chunk loading completed in: 0.004 audio throughput: 11207 
+Debug.js:127 [51527] livestat chunk loading started 
+Debug.js:127 [51632] livestat timeupdate delay: 2.281 buffer: 1.166 throughput: 6283.000 
+Debug.js:127 [51632] livestat timeupdate delay: 2.281 buffer: 1.166 throughput: 6283.000 
+Debug.js:127 [51767] livestat chunk loading completed in: 0.239 video throughput: 7668 
+Debug.js:127 [52121] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 6283.000 
+Debug.js:127 [52123] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 6283.000 
+Debug.js:127 [52375] livestat timeupdate delay: 2.281 buffer: 1.423 throughput: 6283.000 
+Debug.js:127 [52376] livestat timeupdate delay: 2.282 buffer: 1.423 throughput: 6283.000 
+Debug.js:127 [52519] livestat chunk loading started 
+Debug.js:127 [52524] livestat chunk loading started 
+Debug.js:127 [52526] livestat chunk loading completed in: 0.006 audio throughput: 11227 
+Debug.js:127 [52632] livestat timeupdate delay: 2.281 buffer: 1.166 throughput: 6283.000 
+Debug.js:127 [52633] livestat timeupdate delay: 2.282 buffer: 1.166 throughput: 6283.000 
+Debug.js:127 [52694] livestat chunk loading completed in: 0.170 video throughput: 8678 
+Debug.js:127 [53128] livestat timeupdate delay: 2.281 buffer: 1.670 throughput: 6283.000 
+Debug.js:127 [53128] livestat timeupdate delay: 2.281 buffer: 1.670 throughput: 6283.000 
+Debug.js:127 [53519] livestat chunk loading started 
+Debug.js:127 [53522] livestat chunk loading started 
+Debug.js:127 [53526] livestat chunk loading completed in: 0.006 audio throughput: 10380 
+Debug.js:127 [53640] livestat timeupdate delay: 2.281 buffer: 1.158 throughput: 6283.000 
+Debug.js:127 [53641] livestat timeupdate delay: 2.281 buffer: 1.158 throughput: 6283.000 
+Debug.js:127 [53766] livestat chunk loading completed in: 0.244 video throughput: 9017 
+Debug.js:127 [54124] livestat timeupdate delay: 2.283 buffer: 1.676 throughput: 6283.000 
+Debug.js:127 [54124] livestat timeupdate delay: 2.283 buffer: 1.676 throughput: 6283.000 
+Debug.js:127 [54372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 6283.000 
+Debug.js:127 [54372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 6283.000 
+Debug.js:127 [54519] livestat chunk loading started 
+Debug.js:127 [54527] livestat chunk loading completed in: 0.008 audio throughput: 9270 
+Debug.js:127 [54529] livestat chunk loading started 
+Debug.js:127 [54622] livestat timeupdate delay: 2.281 buffer: 1.176 throughput: 6283.000 
+Debug.js:127 [54622] livestat timeupdate delay: 2.281 buffer: 1.176 throughput: 6283.000 
+Debug.js:127 [54691] livestat chunk loading completed in: 0.162 video throughput: 9577 
+Debug.js:127 [55126] livestat timeupdate delay: 2.280 buffer: 1.671 throughput: 6283.000 
+Debug.js:127 [55127] livestat timeupdate delay: 2.281 buffer: 1.671 throughput: 6283.000 
+Debug.js:127 [55519] livestat chunk loading started 
+Debug.js:127 [55522] livestat chunk loading completed in: 0.003 audio throughput: 9466 
+Debug.js:127 [55523] livestat chunk loading started 
+Debug.js:127 [55627] livestat timeupdate delay: 2.281 buffer: 1.171 throughput: 6283.000 
+Debug.js:127 [55627] livestat timeupdate delay: 2.281 buffer: 1.171 throughput: 6283.000 
+Debug.js:127 [55840] livestat chunk loading completed in: 0.317 video throughput: 9211 
+Debug.js:127 [55883] livestat timeupdate delay: 2.280 buffer: 1.781 throughput: 6283.000 
+Debug.js:127 [55884] livestat timeupdate delay: 2.281 buffer: 1.781 throughput: 6283.000 
+Debug.js:127 [56371] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 6283.000 
+Debug.js:127 [56372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 6283.000 
+Debug.js:127 [56519] livestat chunk loading started 
+Debug.js:127 [56523] livestat chunk loading completed in: 0.004 audio throughput: 10650 
+Debug.js:127 [56524] livestat chunk loading started 
+Debug.js:127 [56622] livestat timeupdate delay: 2.281 buffer: 1.176 throughput: 6283.000 
+Debug.js:127 [56624] livestat timeupdate delay: 2.283 buffer: 1.176 throughput: 6283.000 
+Debug.js:127 [56692] livestat chunk loading completed in: 0.168 video throughput: 10487 
+Debug.js:127 [57128] livestat timeupdate delay: 2.281 buffer: 1.670 throughput: 6283.000 
+Debug.js:127 [57128] livestat timeupdate delay: 2.281 buffer: 1.670 throughput: 6283.000 
+Debug.js:127 [57518] livestat chunk loading started 
+Debug.js:127 [57522] livestat chunk loading completed in: 0.003 audio throughput: 10653 
+Debug.js:127 [57523] livestat chunk loading started 
+Debug.js:127 [57538] livestat loadend index: 188022061 time passed: 6.253 
+Debug.js:127 [57622] livestat timeupdate delay: 2.281 buffer: 1.176 throughput: 6283.000 
+Debug.js:127 [57622] livestat timeupdate delay: 2.281 buffer: 1.176 throughput: 6283.000 
+Debug.js:127 [57739] livestat chunk loading completed in: 0.216 video throughput: 11367 
+Debug.js:127 [57795] livestat loadend index: 188022061 time passed: 6.936 
+Debug.js:127 [58122] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [58122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [58371] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 7658.000 
+Debug.js:127 [58372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 7658.000 
+Debug.js:127 [58871] livestat timeupdate delay: 2.280 buffer: 0.926 throughput: 7658.000 
+Debug.js:127 [58872] livestat timeupdate delay: 2.281 buffer: 0.926 throughput: 7658.000 
+Debug.js:127 [58928] livestat chunk loading started 
+Debug.js:127 [59082] livestat chunk loading started 
+Debug.js:127 [59085] livestat chunk loading completed in: 0.003 audio throughput: 11515 
+Debug.js:127 [59102] livestat chunk loading completed in: 0.174 video throughput: 11387 
+Debug.js:127 [59121] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [59122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [59518] livestat chunk loading started 
+Debug.js:127 [59523] livestat chunk loading completed in: 0.004 audio throughput: 11509 
+Debug.js:127 [59526] livestat chunk loading started 
+Debug.js:127 [59631] livestat timeupdate delay: 2.280 buffer: 1.166 throughput: 7658.000 
+Debug.js:127 [59632] livestat timeupdate delay: 2.281 buffer: 1.166 throughput: 7658.000 
+Debug.js:127 [59762] livestat chunk loading completed in: 0.235 video throughput: 11414 
+Debug.js:127 [60122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [60123] livestat timeupdate delay: 2.282 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [60372] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 7658.000 
+Debug.js:127 [60373] livestat timeupdate delay: 2.282 buffer: 1.426 throughput: 7658.000 
+Debug.js:127 [60518] livestat chunk loading started 
+Debug.js:127 [60523] livestat chunk loading completed in: 0.005 audio throughput: 11831 
+Debug.js:127 [60526] livestat chunk loading started 
+Debug.js:127 [60623] livestat timeupdate delay: 2.281 buffer: 1.175 throughput: 7658.000 
+Debug.js:127 [60624] livestat timeupdate delay: 2.282 buffer: 1.175 throughput: 7658.000 
+Debug.js:127 [60655] livestat chunk loading completed in: 0.128 video throughput: 11705 
+Debug.js:127 [60876] livestat timeupdate delay: 2.280 buffer: 1.921 throughput: 7658.000 
+Debug.js:127 [60877] livestat timeupdate delay: 2.281 buffer: 1.921 throughput: 7658.000 
+Debug.js:127 [61371] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 7658.000 
+Debug.js:127 [61372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 7658.000 
+Debug.js:127 [61519] livestat chunk loading started 
+Debug.js:127 [61525] livestat chunk loading completed in: 0.005 audio throughput: 12176 
+Debug.js:127 [61526] livestat chunk loading started 
+Debug.js:127 [61665] livestat chunk loading completed in: 0.139 video throughput: 12504 
+Debug.js:127 [61668] livestat timeupdate delay: 2.281 buffer: 1.130 throughput: 7658.000 
+Debug.js:127 [61670] livestat timeupdate delay: 2.283 buffer: 1.130 throughput: 7658.000 
+Debug.js:127 [62122] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [62122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [62371] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 7658.000 
+Debug.js:127 [62372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 7658.000 
+Debug.js:127 [62519] livestat chunk loading started 
+Debug.js:127 [62531] livestat chunk loading started 
+Debug.js:127 [62534] livestat chunk loading completed in: 0.003 audio throughput: 14189 
+Debug.js:127 [62635] livestat timeupdate delay: 2.281 buffer: 1.163 throughput: 7658.000 
+Debug.js:127 [62635] livestat timeupdate delay: 2.281 buffer: 1.163 throughput: 7658.000 
+Debug.js:127 [62649] livestat chunk loading completed in: 0.129 video throughput: 12778 
+Debug.js:127 [63121] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [63122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [63371] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 7658.000 
+Debug.js:127 [63372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 7658.000 
+Debug.js:127 [63518] livestat chunk loading started 
+Debug.js:127 [63521] livestat chunk loading completed in: 0.003 audio throughput: 14202 
+Debug.js:127 [63523] livestat chunk loading started 
+Debug.js:127 [63637] livestat timeupdate delay: 2.281 buffer: 1.161 throughput: 7658.000 
+Debug.js:127 [63638] livestat timeupdate delay: 2.282 buffer: 1.161 throughput: 7658.000 
+Debug.js:127 [63655] livestat chunk loading completed in: 0.131 video throughput: 14579 
+Debug.js:127 [64121] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [64122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [64371] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 7658.000 
+Debug.js:127 [64372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 7658.000 
+Debug.js:127 [64518] livestat chunk loading started 
+Debug.js:127 [64524] livestat chunk loading completed in: 0.006 audio throughput: 13330 
+Debug.js:127 [64533] livestat chunk loading started 
+Debug.js:127 [64636] livestat timeupdate delay: 2.280 buffer: 1.161 throughput: 7658.000 
+Debug.js:127 [64636] livestat timeupdate delay: 2.280 buffer: 1.161 throughput: 7658.000 
+Debug.js:127 [64652] livestat chunk loading completed in: 0.119 video throughput: 15141 
+Debug.js:127 [65122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [65122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 7658.000 
+Debug.js:127 [65518] livestat chunk loading started 
+Debug.js:127 [65528] livestat chunk loading completed in: 0.010 audio throughput: 10922 
+Debug.js:127 [65531] livestat chunk loading started 
+Debug.js:127 [65552] livestat loadend index: 188022062 time passed: 6.533 
+Debug.js:127 [65641] livestat timeupdate delay: 2.280 buffer: 1.156 throughput: 7658.000 
+Debug.js:127 [65642] livestat timeupdate delay: 2.281 buffer: 1.156 throughput: 7658.000 
+Debug.js:127 [65651] livestat chunk loading completed in: 0.120 video throughput: 16378 
+Debug.js:127 [65680] livestat loadend index: 188022062 time passed: 6.884 
+Debug.js:127 [66122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [66123] livestat timeupdate delay: 2.282 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [66622] livestat timeupdate delay: 2.281 buffer: 1.176 throughput: 10244.000 
+Debug.js:127 [66623] livestat timeupdate delay: 2.282 buffer: 1.176 throughput: 10244.000 
+Debug.js:127 [66872] livestat timeupdate delay: 2.281 buffer: 0.926 throughput: 10244.000 
+Debug.js:127 [66872] livestat timeupdate delay: 2.281 buffer: 0.926 throughput: 10244.000 
+Debug.js:127 [66892] livestat chunk loading started 
+Debug.js:127 [67019] livestat chunk loading completed in: 0.126 video throughput: 17075 
+Debug.js:127 [67085] livestat chunk loading started 
+Debug.js:127 [67090] livestat chunk loading completed in: 0.005 audio throughput: 10390 
+Debug.js:127 [67122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [67122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [67518] livestat chunk loading started 
+Debug.js:127 [67523] livestat chunk loading completed in: 0.004 audio throughput: 10405 
+Debug.js:127 [67526] livestat chunk loading started 
+Debug.js:127 [67660] livestat timeupdate delay: 2.280 buffer: 1.137 throughput: 10244.000 
+Debug.js:127 [67660] livestat timeupdate delay: 2.280 buffer: 1.137 throughput: 10244.000 
+Debug.js:127 [67666] livestat chunk loading completed in: 0.140 video throughput: 18647 
+Debug.js:127 [68122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [68122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [68519] livestat chunk loading started 
+Debug.js:127 [68523] livestat chunk loading started 
+Debug.js:127 [68525] livestat chunk loading completed in: 0.005 audio throughput: 10390 
+Debug.js:127 [68622] livestat timeupdate delay: 2.280 buffer: 1.175 throughput: 10244.000 
+Debug.js:127 [68623] livestat timeupdate delay: 2.281 buffer: 1.175 throughput: 10244.000 
+Debug.js:127 [68651] livestat chunk loading completed in: 0.128 video throughput: 18647 
+Debug.js:127 [69122] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [69122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [69519] livestat chunk loading started 
+Debug.js:127 [69528] livestat chunk loading completed in: 0.009 audio throughput: 9475 
+Debug.js:127 [69531] livestat chunk loading started 
+Debug.js:127 [69646] livestat timeupdate delay: 2.280 buffer: 1.151 throughput: 10244.000 
+Debug.js:127 [69646] livestat timeupdate delay: 2.280 buffer: 1.151 throughput: 10244.000 
+Debug.js:127 [69657] livestat chunk loading completed in: 0.125 video throughput: 18903 
+Debug.js:127 [70121] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [70122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [70524] livestat chunk loading started 
+Debug.js:127 [70527] livestat chunk loading completed in: 0.003 audio throughput: 9476 
+Debug.js:127 [70530] livestat chunk loading started 
+Debug.js:127 [70622] livestat timeupdate delay: 2.280 buffer: 1.175 throughput: 10244.000 
+Debug.js:127 [70622] livestat timeupdate delay: 2.280 buffer: 1.175 throughput: 10244.000 
+Debug.js:127 [70660] livestat chunk loading completed in: 0.129 video throughput: 18903 
+Debug.js:127 [71122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [71122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [71371] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 10244.000 
+Debug.js:127 [71372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 10244.000 
+Debug.js:127 [71518] livestat chunk loading started 
+Debug.js:127 [71533] livestat chunk loading started 
+Debug.js:127 [71536] livestat chunk loading completed in: 0.002 audio throughput: 9686 
+Debug.js:127 [71634] livestat timeupdate delay: 2.281 buffer: 1.164 throughput: 10244.000 
+Debug.js:127 [71634] livestat timeupdate delay: 2.281 buffer: 1.164 throughput: 10244.000 
+Debug.js:127 [71656] livestat chunk loading completed in: 0.138 video throughput: 18774 
+Debug.js:127 [72121] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [72122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [72526] livestat chunk loading started 
+Debug.js:127 [72531] livestat chunk loading completed in: 0.005 audio throughput: 9904 
+Debug.js:127 [72533] livestat chunk loading started 
+Debug.js:127 [72641] livestat timeupdate delay: 2.280 buffer: 1.156 throughput: 10244.000 
+Debug.js:127 [72642] livestat timeupdate delay: 2.281 buffer: 1.156 throughput: 10244.000 
+Debug.js:127 [72664] livestat chunk loading completed in: 0.131 video throughput: 18557 
+Debug.js:127 [73122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [73123] livestat timeupdate delay: 2.282 buffer: 1.676 throughput: 10244.000 
+Debug.js:127 [73518] livestat chunk loading started 
+Debug.js:127 [73526] livestat chunk loading started 
+Debug.js:127 [73530] livestat chunk loading completed in: 0.004 audio throughput: 11512 
+Debug.js:127 [73546] livestat loadend index: 188022063 time passed: 6.478 
+Debug.js:127 [73625] livestat timeupdate delay: 2.280 buffer: 1.172 throughput: 10244.000 
+Debug.js:127 [73625] livestat timeupdate delay: 2.280 buffer: 1.172 throughput: 10244.000 
+Debug.js:127 [73660] livestat chunk loading completed in: 0.141 video throughput: 18189 
+Debug.js:127 [73700] livestat loadend index: 188022063 time passed: 6.937 
+Debug.js:127 [74126] livestat timeupdate delay: 2.280 buffer: 1.671 throughput: 12702.000 
+Debug.js:127 [74126] livestat timeupdate delay: 2.280 buffer: 1.671 throughput: 12702.000 
+Debug.js:127 [74622] livestat timeupdate delay: 2.281 buffer: 1.176 throughput: 12702.000 
+Debug.js:127 [74622] livestat timeupdate delay: 2.281 buffer: 1.176 throughput: 12702.000 
+Debug.js:127 [74925] livestat chunk loading started 
+Debug.js:127 [75051] livestat chunk loading completed in: 0.124 video throughput: 18223 
+Debug.js:127 [75121] livestat timeupdate delay: 2.281 buffer: 1.677 throughput: 12702.000 
+Debug.js:127 [75122] livestat timeupdate delay: 2.282 buffer: 1.677 throughput: 12702.000 
+Debug.js:127 [75353] livestat chunk loading started 
+Debug.js:127 [75356] livestat chunk loading completed in: 0.003 audio throughput: 12178 
+Debug.js:127 [75374] livestat timeupdate delay: 2.280 buffer: 1.423 throughput: 12702.000 
+Debug.js:127 [75375] livestat timeupdate delay: 2.281 buffer: 1.423 throughput: 12702.000 
+Debug.js:127 [75518] livestat chunk loading started 
+Debug.js:127 [75525] livestat chunk loading started 
+Debug.js:127 [75529] livestat chunk loading completed in: 0.010 audio throughput: 10393 
+Debug.js:127 [75673] livestat chunk loading completed in: 0.147 video throughput: 18103 
+Debug.js:127 [75675] livestat timeupdate delay: 2.280 buffer: 1.122 throughput: 12702.000 
+Debug.js:127 [75675] livestat timeupdate delay: 2.280 buffer: 1.122 throughput: 12702.000 
+Debug.js:127 [76121] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 12702.000 
+Debug.js:127 [76122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 12702.000 
+Debug.js:127 [76372] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 12702.000 
+Debug.js:127 [76372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 12702.000 
+Debug.js:127 [76519] livestat chunk loading started 
+Debug.js:127 [76522] livestat chunk loading started 
+Debug.js:127 [76524] livestat chunk loading completed in: 0.005 audio throughput: 10394 
+Debug.js:127 [76625] livestat timeupdate delay: 2.280 buffer: 1.172 throughput: 12702.000 
+Debug.js:127 [76626] livestat timeupdate delay: 2.281 buffer: 1.172 throughput: 12702.000 
+Debug.js:127 [76656] livestat chunk loading completed in: 0.133 video throughput: 18018 
+Debug.js:127 [76874] livestat timeupdate delay: 2.280 buffer: 1.924 throughput: 12702.000 
+Debug.js:127 [76874] livestat timeupdate delay: 2.281 buffer: 1.924 throughput: 12702.000 
+Debug.js:127 [77371] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 12702.000 
+Debug.js:127 [77372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 12702.000 
+Debug.js:127 [77522] livestat chunk loading started 
+Debug.js:127 [77524] livestat chunk loading started 
+Debug.js:127 [77529] livestat chunk loading completed in: 0.006 audio throughput: 11203 
+Debug.js:127 [77635] livestat timeupdate delay: 2.280 buffer: 1.162 throughput: 12702.000 
+Debug.js:127 [77635] livestat timeupdate delay: 2.280 buffer: 1.162 throughput: 12702.000 
+Debug.js:127 [77654] livestat chunk loading completed in: 0.129 video throughput: 17951 
+Debug.js:127 [78122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 12702.000 
+Debug.js:127 [78122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 12702.000 
+Debug.js:127 [78372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 12702.000 
+Debug.js:127 [78372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 12702.000 
+Debug.js:127 [78519] livestat chunk loading started 
+Debug.js:127 [78523] livestat chunk loading completed in: 0.004 audio throughput: 10928 
+Debug.js:127 [78527] livestat chunk loading started 
+Debug.js:127 [78642] livestat timeupdate delay: 2.280 buffer: 1.155 throughput: 12702.000 
+Debug.js:127 [78643] livestat timeupdate delay: 2.281 buffer: 1.155 throughput: 12702.000 
+Debug.js:127 [78654] livestat chunk loading completed in: 0.127 video throughput: 17985 
+Debug.js:127 [79121] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 12702.000 
+Debug.js:127 [79123] livestat timeupdate delay: 2.282 buffer: 1.676 throughput: 12702.000 
+Debug.js:127 [79372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 12702.000 
+Debug.js:127 [79372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 12702.000 
+Debug.js:127 [79528] livestat chunk loading started 
+Debug.js:127 [79531] livestat chunk loading completed in: 0.003 audio throughput: 10655 
+Debug.js:127 [79533] livestat chunk loading started 
+Debug.js:127 [79623] livestat timeupdate delay: 2.280 buffer: 1.174 throughput: 12702.000 
+Debug.js:127 [79624] livestat timeupdate delay: 2.281 buffer: 1.174 throughput: 12702.000 
+Debug.js:127 [79649] livestat chunk loading completed in: 0.115 video throughput: 18380 
+Debug.js:127 [80122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 12702.000 
+Debug.js:127 [80122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 12702.000 
+Debug.js:127 [80371] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 12702.000 
+Debug.js:127 [80372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 12702.000 
+Debug.js:127 [80519] livestat chunk loading started 
+Debug.js:127 [80524] livestat chunk loading completed in: 0.004 audio throughput: 10923 
+Debug.js:127 [80526] livestat chunk loading started 
+Debug.js:127 [80645] livestat timeupdate delay: 2.280 buffer: 1.152 throughput: 12702.000 
+Debug.js:127 [80645] livestat timeupdate delay: 2.280 buffer: 1.152 throughput: 12702.000 
+Debug.js:127 [80652] livestat chunk loading completed in: 0.126 video throughput: 18468 
+Debug.js:127 [81122] livestat timeupdate delay: 2.280 buffer: 1.676 throughput: 12702.000 
+Debug.js:127 [81122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 12702.000 
+Debug.js:127 [81372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 12702.000 
+Debug.js:127 [81373] livestat timeupdate delay: 2.281 buffer: 1.425 throughput: 12702.000 
+Debug.js:127 [81520] livestat chunk loading started 
+Debug.js:127 [81523] livestat chunk loading completed in: 0.003 audio throughput: 11218 
+Debug.js:127 [81525] livestat chunk loading started 
+Debug.js:127 [81527] livestat loadend index: 188022064 time passed: 6.203 
+Debug.js:127 [81640] livestat timeupdate delay: 2.280 buffer: 1.157 throughput: 12702.000 
+Debug.js:127 [81640] livestat timeupdate delay: 2.280 buffer: 1.157 throughput: 12702.000 
+Debug.js:127 [81657] livestat chunk loading completed in: 0.131 video throughput: 18647 
+Debug.js:127 [81684] livestat loadend index: 188022064 time passed: 6.903 
+Debug.js:127 [82122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 15525.000 
+Debug.js:127 [82122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 15525.000 
+Debug.js:127 [82371] livestat timeupdate delay: 2.280 buffer: 1.426 throughput: 15525.000 
+Debug.js:127 [82372] livestat timeupdate delay: 2.281 buffer: 1.426 throughput: 15525.000 
+Debug.js:127 [82873] livestat timeupdate delay: 2.282 buffer: 0.926 throughput: 15525.000 
+Debug.js:127 [82873] livestat timeupdate delay: 2.282 buffer: 0.926 throughput: 15525.000 
+Debug.js:127 [83006] livestat chunk loading started 
+Debug.js:127 [83050] livestat chunk loading started 
+Debug.js:127 [83054] livestat chunk loading completed in: 0.003 audio throughput: 11212 
+Debug.js:127 [83122] livestat chunk loading completed in: 0.116 video throughput: 18793 
+Debug.js:127 [83124] livestat timeupdate delay: 2.280 buffer: 1.106 throughput: 15525.000 
+Debug.js:127 [83125] livestat timeupdate delay: 2.281 buffer: 1.106 throughput: 15525.000 
+Debug.js:127 [83518] livestat chunk loading started 
+Debug.js:127 [83528] livestat chunk loading started 
+Debug.js:127 [83534] livestat chunk loading completed in: 0.006 audio throughput: 12524 
+Debug.js:127 [83625] livestat timeupdate delay: 2.280 buffer: 1.172 throughput: 15525.000 
+Debug.js:127 [83625] livestat timeupdate delay: 2.280 buffer: 1.172 throughput: 15525.000 
+Debug.js:127 [83658] livestat chunk loading completed in: 0.140 video throughput: 18922 
+Debug.js:127 [84122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 15525.000 
+Debug.js:127 [84122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 15525.000 
+Debug.js:127 [84372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 15525.000 
+Debug.js:127 [84373] livestat timeupdate delay: 2.281 buffer: 1.425 throughput: 15525.000 
+Debug.js:127 [84523] livestat chunk loading started 
+Debug.js:127 [84526] livestat chunk loading started 
+Debug.js:127 [84530] livestat chunk loading completed in: 0.004 audio throughput: 12920 
+Debug.js:127 [84640] livestat timeupdate delay: 2.280 buffer: 1.157 throughput: 15525.000 
+Debug.js:127 [84640] livestat timeupdate delay: 2.280 buffer: 1.157 throughput: 15525.000 
+Debug.js:127 [84661] livestat chunk loading completed in: 0.137 video throughput: 18848 
+Debug.js:127 [85122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 15525.000 
+Debug.js:127 [85122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 15525.000 
+Debug.js:127 [85518] livestat chunk loading started 
+Debug.js:127 [85533] livestat chunk loading started 
+Debug.js:127 [85536] livestat chunk loading completed in: 0.003 audio throughput: 14210 
+Debug.js:127 [85647] livestat timeupdate delay: 2.280 buffer: 1.150 throughput: 15525.000 
+Debug.js:127 [85648] livestat timeupdate delay: 2.281 buffer: 1.150 throughput: 15525.000 
+Debug.js:127 [85666] livestat chunk loading completed in: 0.147 video throughput: 18521 
+Debug.js:127 [86122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 15525.000 
+Debug.js:127 [86123] livestat timeupdate delay: 2.281 buffer: 1.675 throughput: 15525.000 
+Debug.js:127 [86372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 15525.000 
+Debug.js:127 [86372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 15525.000 
+Debug.js:127 [86518] livestat chunk loading started 
+Debug.js:127 [86528] livestat chunk loading started 
+Debug.js:127 [86531] livestat chunk loading completed in: 0.002 audio throughput: 15227 
+Debug.js:127 [86628] livestat timeupdate delay: 2.280 buffer: 1.169 throughput: 15525.000 
+Debug.js:127 [86629] livestat timeupdate delay: 2.281 buffer: 1.169 throughput: 15525.000 
+Debug.js:127 [86654] livestat chunk loading completed in: 0.135 video throughput: 18380 
+Debug.js:127 [87122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 15525.000 
+Debug.js:127 [87123] livestat timeupdate delay: 2.281 buffer: 1.675 throughput: 15525.000 
+Debug.js:127 [87527] livestat chunk loading started 
+Debug.js:127 [87531] livestat chunk loading started 
+Debug.js:127 [87534] livestat chunk loading completed in: 0.003 audio throughput: 15224 
+Debug.js:127 [87622] livestat timeupdate delay: 2.280 buffer: 1.175 throughput: 15525.000 
+Debug.js:127 [87622] livestat timeupdate delay: 2.280 buffer: 1.175 throughput: 15525.000 
+Debug.js:127 [87648] livestat chunk loading completed in: 0.121 video throughput: 18275 
+Debug.js:127 [88123] livestat timeupdate delay: 2.281 buffer: 1.675 throughput: 15525.000 
+Debug.js:127 [88126] livestat timeupdate delay: 2.284 buffer: 1.675 throughput: 15525.000 
+Debug.js:127 [88520] livestat chunk loading started 
+Debug.js:127 [88527] livestat chunk loading started 
+Debug.js:127 [88530] livestat chunk loading completed in: 0.003 audio throughput: 15791 
+Debug.js:127 [88628] livestat timeupdate delay: 2.280 buffer: 1.169 throughput: 15525.000 
+Debug.js:127 [88629] livestat timeupdate delay: 2.281 buffer: 1.169 throughput: 15525.000 
+Debug.js:127 [88650] livestat chunk loading completed in: 0.130 video throughput: 18206 
+Debug.js:127 [89122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 15525.000 
+Debug.js:127 [89122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 15525.000 
+Debug.js:127 [89372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 15525.000 
+Debug.js:127 [89372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 15525.000 
+Debug.js:127 [89519] livestat chunk loading started 
+Debug.js:127 [89525] livestat chunk loading started 
+Debug.js:127 [89528] livestat chunk loading completed in: 0.003 audio throughput: 15792 
+Debug.js:127 [89536] livestat loadend index: 188022065 time passed: 6.534 
+Debug.js:127 [89631] livestat timeupdate delay: 2.280 buffer: 1.166 throughput: 15525.000 
+Debug.js:127 [89631] livestat timeupdate delay: 2.280 buffer: 1.166 throughput: 15525.000 
+Debug.js:127 [89654] livestat chunk loading completed in: 0.135 video throughput: 18137 
+Debug.js:127 [89689] livestat loadend index: 188022065 time passed: 6.827 
+Debug.js:127 [90121] livestat timeupdate delay: 2.279 buffer: 1.675 throughput: 17794.000 
+Debug.js:127 [90122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 17794.000 
+Debug.js:127 [90374] livestat timeupdate delay: 2.280 buffer: 1.423 throughput: 17794.000 
+Debug.js:127 [90375] livestat timeupdate delay: 2.281 buffer: 1.423 throughput: 17794.000 
+Debug.js:127 [90872] livestat timeupdate delay: 2.280 buffer: 0.925 throughput: 17794.000 
+Debug.js:127 [90872] livestat timeupdate delay: 2.280 buffer: 0.925 throughput: 17794.000 
+Debug.js:127 [90908] livestat chunk loading started 
+Debug.js:127 [91035] livestat chunk loading completed in: 0.127 video throughput: 17951 
+Debug.js:127 [91038] livestat chunk loading started 
+Debug.js:127 [91040] livestat chunk loading completed in: 0.001 audio throughput: 17064 
+Debug.js:127 [91372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 17794.000 
+Debug.js:127 [91372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 17794.000 
+Debug.js:127 [91518] livestat chunk loading started 
+Debug.js:127 [91521] livestat chunk loading started 
+Debug.js:127 [91522] livestat chunk loading completed in: 0.004 audio throughput: 18545 
+Debug.js:127 [91634] livestat timeupdate delay: 2.279 buffer: 1.162 throughput: 17794.000 
+Debug.js:127 [91635] livestat timeupdate delay: 2.280 buffer: 1.162 throughput: 17794.000 
+Debug.js:127 [91662] livestat chunk loading completed in: 0.141 video throughput: 17934 
+Debug.js:127 [92122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 17794.000 
+Debug.js:127 [92122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 17794.000 
+Debug.js:127 [92372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 17794.000 
+Debug.js:127 [92372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 17794.000 
+Debug.js:127 [92519] livestat chunk loading started 
+Debug.js:127 [92522] livestat chunk loading completed in: 0.003 audio throughput: 19362 
+Debug.js:127 [92524] livestat chunk loading started 
+Debug.js:127 [92631] livestat timeupdate delay: 2.280 buffer: 1.166 throughput: 17794.000 
+Debug.js:127 [92632] livestat timeupdate delay: 2.281 buffer: 1.166 throughput: 17794.000 
+Debug.js:127 [92650] livestat chunk loading completed in: 0.124 video throughput: 18154 
+Debug.js:127 [93122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 17794.000 
+Debug.js:127 [93122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 17794.000 
+Debug.js:127 [93518] livestat chunk loading started 
+Debug.js:127 [93520] livestat chunk loading started 
+Debug.js:127 [93532] livestat chunk loading completed in: 0.014 audio throughput: 12920 
+Debug.js:127 [93635] livestat timeupdate delay: 2.279 buffer: 1.161 throughput: 17794.000 
+Debug.js:127 [93636] livestat timeupdate delay: 2.280 buffer: 1.161 throughput: 17794.000 
+Debug.js:127 [93650] livestat chunk loading completed in: 0.130 video throughput: 18450 
+Debug.js:127 [94122] livestat timeupdate delay: 2.281 buffer: 1.676 throughput: 17794.000 
+Debug.js:127 [94123] livestat timeupdate delay: 2.282 buffer: 1.676 throughput: 17794.000 
+Debug.js:127 [94518] livestat chunk loading started 
+Debug.js:127 [94528] livestat chunk loading started 
+Debug.js:127 [94529] livestat chunk loading completed in: 0.011 audio throughput: 10141 
+Debug.js:127 [94640] livestat timeupdate delay: 2.279 buffer: 1.156 throughput: 17794.000 
+Debug.js:127 [94641] livestat timeupdate delay: 2.280 buffer: 1.156 throughput: 17794.000 
+Debug.js:127 [94660] livestat chunk loading completed in: 0.132 video throughput: 18504 
+Debug.js:127 [95122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 17794.000 
+Debug.js:127 [95123] livestat timeupdate delay: 2.281 buffer: 1.675 throughput: 17794.000 
+Debug.js:127 [95375] livestat timeupdate delay: 2.280 buffer: 1.422 throughput: 17794.000 
+Debug.js:127 [95375] livestat timeupdate delay: 2.280 buffer: 1.422 throughput: 17794.000 
+Debug.js:127 [95518] livestat chunk loading started 
+Debug.js:127 [95530] livestat chunk loading started 
+Debug.js:127 [95532] livestat chunk loading completed in: 0.002 audio throughput: 10399 
+Debug.js:127 [95652] livestat chunk loading completed in: 0.133 video throughput: 18293 
+Debug.js:127 [95875] livestat timeupdate delay: 2.280 buffer: 1.922 throughput: 17794.000 
+Debug.js:127 [95875] livestat timeupdate delay: 2.280 buffer: 1.922 throughput: 17794.000 
+Debug.js:127 [96372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 17794.000 
+Debug.js:127 [96372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 17794.000 
+Debug.js:127 [96519] livestat chunk loading started 
+Debug.js:127 [96526] livestat chunk loading started 
+Debug.js:127 [96529] livestat chunk loading completed in: 0.003 audio throughput: 10403 
+Debug.js:127 [96634] livestat timeupdate delay: 2.280 buffer: 1.163 throughput: 17794.000 
+Debug.js:127 [96634] livestat timeupdate delay: 2.280 buffer: 1.163 throughput: 17794.000 
+Debug.js:127 [96649] livestat chunk loading completed in: 0.129 video throughput: 18310 
+Debug.js:127 [97122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 17794.000 
+Debug.js:127 [97122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 17794.000 
+Debug.js:127 [97372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 17794.000 
+Debug.js:127 [97374] livestat timeupdate delay: 2.282 buffer: 1.425 throughput: 17794.000 
+Debug.js:127 [97519] livestat chunk loading started 
+Debug.js:127 [97522] livestat chunk loading completed in: 0.003 audio throughput: 10388 
+Debug.js:127 [97524] livestat chunk loading started 
+Debug.js:127 [97536] livestat loadend index: 188022066 time passed: 6.543 
+Debug.js:127 [97627] livestat timeupdate delay: 2.280 buffer: 1.170 throughput: 17794.000 
+Debug.js:127 [97627] livestat timeupdate delay: 2.280 buffer: 1.170 throughput: 17794.000 
+Debug.js:127 [97656] livestat chunk loading completed in: 0.131 video throughput: 18380 
+Debug.js:127 [97688] livestat loadend index: 188022066 time passed: 6.917 
+Debug.js:127 [98122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [98123] livestat timeupdate delay: 2.281 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [98372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [98372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [98872] livestat timeupdate delay: 2.280 buffer: 0.925 throughput: 18336.000 
+Debug.js:127 [98873] livestat timeupdate delay: 2.281 buffer: 0.925 throughput: 18336.000 
+Debug.js:127 [98884] livestat chunk loading started 
+Debug.js:127 [99014] livestat chunk loading completed in: 0.130 video throughput: 18327 
+Debug.js:127 [99029] livestat chunk loading started 
+Debug.js:127 [99032] livestat chunk loading completed in: 0.003 audio throughput: 9912 
+Debug.js:127 [99130] livestat timeupdate delay: 2.280 buffer: 1.667 throughput: 18336.000 
+Debug.js:127 [99130] livestat timeupdate delay: 2.280 buffer: 1.667 throughput: 18336.000 
+Debug.js:127 [99518] livestat chunk loading started 
+Debug.js:127 [99524] livestat chunk loading started 
+Debug.js:127 [99529] livestat chunk loading completed in: 0.004 audio throughput: 9894 
+Debug.js:127 [99646] livestat timeupdate delay: 2.280 buffer: 1.151 throughput: 18336.000 
+Debug.js:127 [99646] livestat timeupdate delay: 2.280 buffer: 1.151 throughput: 18336.000 
+Debug.js:127 [99655] livestat chunk loading completed in: 0.137 video throughput: 18397 
+Debug.js:127 [100122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [100122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [100372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [100373] livestat timeupdate delay: 2.281 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [100518] livestat chunk loading started 
+Debug.js:127 [100526] livestat chunk loading started 
+Debug.js:127 [100531] livestat chunk loading completed in: 0.004 audio throughput: 9687 
+Debug.js:127 [100627] livestat timeupdate delay: 2.279 buffer: 1.169 throughput: 18336.000 
+Debug.js:127 [100628] livestat timeupdate delay: 2.280 buffer: 1.169 throughput: 18336.000 
+Debug.js:127 [100649] livestat chunk loading completed in: 0.130 video throughput: 18293 
+Debug.js:127 [101122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [101123] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [101372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [101372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [101518] livestat chunk loading started 
+Debug.js:127 [101528] livestat chunk loading started 
+Debug.js:127 [101531] livestat chunk loading completed in: 0.003 audio throughput: 12939 
+Debug.js:127 [101634] livestat timeupdate delay: 2.280 buffer: 1.163 throughput: 18336.000 
+Debug.js:127 [101635] livestat timeupdate delay: 2.281 buffer: 1.163 throughput: 18336.000 
+Debug.js:127 [101650] livestat chunk loading completed in: 0.132 video throughput: 18258 
+Debug.js:127 [102122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [102126] livestat timeupdate delay: 2.284 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [102372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [102372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [102518] livestat chunk loading started 
+Debug.js:127 [102527] livestat chunk loading started 
+Debug.js:127 [102532] livestat chunk loading completed in: 0.004 audio throughput: 16404 
+Debug.js:127 [102637] livestat timeupdate delay: 2.279 buffer: 1.159 throughput: 18336.000 
+Debug.js:127 [102637] livestat timeupdate delay: 2.279 buffer: 1.159 throughput: 18336.000 
+Debug.js:127 [102648] livestat chunk loading completed in: 0.130 video throughput: 18293 
+Debug.js:127 [103122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [103123] livestat timeupdate delay: 2.281 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [103372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [103372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [103519] livestat chunk loading started 
+Debug.js:127 [103527] livestat chunk loading started 
+Debug.js:127 [103529] livestat chunk loading completed in: 0.002 audio throughput: 16392 
+Debug.js:127 [103660] livestat timeupdate delay: 2.280 buffer: 1.137 throughput: 18336.000 
+Debug.js:127 [103661] livestat timeupdate delay: 2.281 buffer: 1.137 throughput: 18336.000 
+Debug.js:127 [103664] livestat chunk loading completed in: 0.145 video throughput: 18086 
+Debug.js:127 [104122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [104122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [104372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [104372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [104518] livestat chunk loading started 
+Debug.js:127 [104525] livestat chunk loading started 
+Debug.js:127 [104538] livestat chunk loading completed in: 0.012 audio throughput: 12153 
+Debug.js:127 [104648] livestat timeupdate delay: 2.279 buffer: 1.148 throughput: 18336.000 
+Debug.js:127 [104649] livestat timeupdate delay: 2.280 buffer: 1.148 throughput: 18336.000 
+Debug.js:127 [104660] livestat chunk loading completed in: 0.142 video throughput: 17868 
+Debug.js:127 [105122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [105122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18336.000 
+Debug.js:127 [105372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [105372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18336.000 
+Debug.js:127 [105518] livestat chunk loading started 
+Debug.js:127 [105525] livestat chunk loading started 
+Debug.js:127 [105535] livestat chunk loading completed in: 0.010 audio throughput: 10163 
+Debug.js:127 [105542] livestat loadend index: 188022067 time passed: 6.533 
+Debug.js:127 [105699] livestat chunk loading completed in: 0.180 video throughput: 17090 
+Debug.js:127 [105724] livestat timeupdate delay: 2.279 buffer: 1.072 throughput: 18336.000 
+Debug.js:127 [105725] livestat timeupdate delay: 2.280 buffer: 1.072 throughput: 18336.000 
+Debug.js:127 [105791] livestat loadend index: 188022067 time passed: 7.029 
+Debug.js:127 [106122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [106122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [106372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [106373] livestat timeupdate delay: 2.281 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [106872] livestat timeupdate delay: 2.280 buffer: 0.925 throughput: 18044.000 
+Debug.js:127 [106873] livestat timeupdate delay: 2.281 buffer: 0.925 throughput: 18044.000 
+Debug.js:127 [106953] livestat chunk loading started 
+Debug.js:127 [107079] livestat chunk loading completed in: 0.126 video throughput: 17151 
+Debug.js:127 [107092] livestat chunk loading started 
+Debug.js:127 [107095] livestat chunk loading completed in: 0.003 audio throughput: 10139 
+Debug.js:127 [107122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [107122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [107372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [107372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [107518] livestat chunk loading started 
+Debug.js:127 [107521] livestat chunk loading completed in: 0.003 audio throughput: 10406 
+Debug.js:127 [107525] livestat chunk loading started 
+Debug.js:127 [107635] livestat timeupdate delay: 2.279 buffer: 1.161 throughput: 18044.000 
+Debug.js:127 [107636] livestat timeupdate delay: 2.280 buffer: 1.161 throughput: 18044.000 
+Debug.js:127 [107652] livestat chunk loading completed in: 0.127 video throughput: 17305 
+Debug.js:127 [108122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [108123] livestat timeupdate delay: 2.281 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [108372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [108372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [108521] livestat chunk loading started 
+Debug.js:127 [108527] livestat chunk loading completed in: 0.006 audio throughput: 9903 
+Debug.js:127 [108529] livestat chunk loading started 
+Debug.js:127 [108646] livestat timeupdate delay: 2.279 buffer: 1.150 throughput: 18044.000 
+Debug.js:127 [108647] livestat timeupdate delay: 2.280 buffer: 1.150 throughput: 18044.000 
+Debug.js:127 [108662] livestat chunk loading completed in: 0.133 video throughput: 17259 
+Debug.js:127 [109122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [109123] livestat timeupdate delay: 2.281 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [109519] livestat chunk loading started 
+Debug.js:127 [109529] livestat chunk loading completed in: 0.009 audio throughput: 8678 
+Debug.js:127 [109531] livestat chunk loading started 
+Debug.js:127 [109624] livestat timeupdate delay: 2.279 buffer: 1.172 throughput: 18044.000 
+Debug.js:127 [109625] livestat timeupdate delay: 2.280 buffer: 1.172 throughput: 18044.000 
+Debug.js:127 [109657] livestat chunk loading completed in: 0.125 video throughput: 17368 
+Debug.js:127 [109875] livestat timeupdate delay: 2.279 buffer: 1.921 throughput: 18044.000 
+Debug.js:127 [109876] livestat timeupdate delay: 2.280 buffer: 1.921 throughput: 18044.000 
+Debug.js:127 [110372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [110372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [110521] livestat chunk loading started 
+Debug.js:127 [110525] livestat chunk loading completed in: 0.003 audio throughput: 8880 
+Debug.js:127 [110526] livestat chunk loading started 
+Debug.js:127 [110639] livestat timeupdate delay: 2.280 buffer: 1.158 throughput: 18044.000 
+Debug.js:127 [110639] livestat timeupdate delay: 2.280 buffer: 1.158 throughput: 18044.000 
+Debug.js:127 [110657] livestat chunk loading completed in: 0.130 video throughput: 17368 
+Debug.js:127 [111122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [111122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [111372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [111373] livestat timeupdate delay: 2.281 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [111520] livestat chunk loading started 
+Debug.js:127 [111525] livestat chunk loading completed in: 0.005 audio throughput: 8355 
+Debug.js:127 [111527] livestat chunk loading started 
+Debug.js:127 [111637] livestat timeupdate delay: 2.279 buffer: 1.159 throughput: 18044.000 
+Debug.js:127 [111638] livestat timeupdate delay: 2.280 buffer: 1.159 throughput: 18044.000 
+Debug.js:127 [111657] livestat chunk loading completed in: 0.130 video throughput: 17606 
+Debug.js:127 [112122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [112122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [112372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [112372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [112519] livestat chunk loading started 
+Debug.js:127 [112523] livestat chunk loading completed in: 0.003 audio throughput: 10150 
+Debug.js:127 [112524] livestat chunk loading started 
+Debug.js:127 [112631] livestat timeupdate delay: 2.280 buffer: 1.166 throughput: 18044.000 
+Debug.js:127 [112631] livestat timeupdate delay: 2.280 buffer: 1.166 throughput: 18044.000 
+Debug.js:127 [112652] livestat chunk loading completed in: 0.128 video throughput: 17835 
+Debug.js:127 [113122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [113122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18044.000 
+Debug.js:127 [113372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [113372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18044.000 
+Debug.js:127 [113519] livestat chunk loading started 
+Debug.js:127 [113522] livestat chunk loading completed in: 0.003 audio throughput: 12157 
+Debug.js:127 [113524] livestat chunk loading started 
+Debug.js:127 [113529] livestat loadend index: 188022068 time passed: 6.474 
+Debug.js:127 [113635] livestat timeupdate delay: 2.279 buffer: 1.161 throughput: 18044.000 
+Debug.js:127 [113636] livestat timeupdate delay: 2.280 buffer: 1.161 throughput: 18044.000 
+Debug.js:127 [113650] livestat chunk loading completed in: 0.125 video throughput: 18793 
+Debug.js:127 [113684] livestat loadend index: 188022068 time passed: 6.855 
+Debug.js:127 [114122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18078.000 
+Debug.js:127 [114123] livestat timeupdate delay: 2.281 buffer: 1.675 throughput: 18078.000 
+Debug.js:127 [114630] livestat timeupdate delay: 2.280 buffer: 1.167 throughput: 18078.000 
+Debug.js:127 [114630] livestat timeupdate delay: 2.280 buffer: 1.167 throughput: 18078.000 
+Debug.js:127 [114992] livestat chunk loading started 
+Debug.js:127 [115116] livestat chunk loading completed in: 0.124 video throughput: 18829 
+Debug.js:127 [115129] livestat timeupdate delay: 2.279 buffer: 1.667 throughput: 18078.000 
+Debug.js:127 [115130] livestat timeupdate delay: 2.280 buffer: 1.667 throughput: 18078.000 
+Debug.js:127 [115305] livestat chunk loading started 
+Debug.js:127 [115309] livestat chunk loading completed in: 0.004 audio throughput: 11849 
+Debug.js:127 [115518] livestat chunk loading started 
+Debug.js:127 [115529] livestat chunk loading completed in: 0.010 audio throughput: 9912 
+Debug.js:127 [115532] livestat chunk loading started 
+Debug.js:127 [115624] livestat timeupdate delay: 2.280 buffer: 1.173 throughput: 18078.000 
+Debug.js:127 [115624] livestat timeupdate delay: 2.280 buffer: 1.173 throughput: 18078.000 
+Debug.js:127 [115655] livestat chunk loading completed in: 0.123 video throughput: 18903 
+Debug.js:127 [115875] livestat timeupdate delay: 2.279 buffer: 1.921 throughput: 18078.000 
+Debug.js:127 [115876] livestat timeupdate delay: 2.280 buffer: 1.921 throughput: 18078.000 
+Debug.js:127 [116372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18078.000 
+Debug.js:127 [116372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18078.000 
+Debug.js:127 [116519] livestat chunk loading started 
+Debug.js:127 [116523] livestat chunk loading completed in: 0.004 audio throughput: 10405 
+Debug.js:127 [116525] livestat chunk loading started 
+Debug.js:127 [116641] livestat timeupdate delay: 2.280 buffer: 1.156 throughput: 18078.000 
+Debug.js:127 [116641] livestat timeupdate delay: 2.280 buffer: 1.156 throughput: 18078.000 
+Debug.js:127 [116653] livestat chunk loading completed in: 0.128 video throughput: 18997 
+Debug.js:127 [117122] livestat timeupdate delay: 2.280 buffer: 1.675 throughput: 18078.000 
+Debug.js:127 [117123] livestat timeupdate delay: 2.281 buffer: 1.675 throughput: 18078.000 
+Debug.js:127 [117372] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 18078.000 
+Debug.js:127 [117373] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 18078.000 
+Debug.js:127 [117519] livestat chunk loading started 
+Debug.js:127 [117526] livestat chunk loading completed in: 0.007 audio throughput: 10920 
+Debug.js:127 [117530] livestat chunk loading started 
+Debug.js:127 [117642] livestat timeupdate delay: 2.279 buffer: 1.154 throughput: 18078.000 
+Debug.js:127 [117643] livestat timeupdate delay: 2.280 buffer: 1.154 throughput: 18078.000 
+Debug.js:127 [117657] livestat chunk loading completed in: 0.127 video throughput: 18959 
+Debug.js:127 [118122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18078.000 
+Debug.js:127 [118122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18078.000 
+Debug.js:127 [118372] livestat timeupdate delay: 2.280 buffer: 1.425 throughput: 18078.000 
+Debug.js:127 [118373] livestat timeupdate delay: 2.281 buffer: 1.425 throughput: 18078.000 
+Debug.js:127 [118519] livestat chunk loading started 
+Debug.js:127 [118524] livestat chunk loading started 
+Debug.js:127 [118526] livestat chunk loading completed in: 0.002 audio throughput: 11207 
+Debug.js:127 [118641] livestat timeupdate delay: 2.279 buffer: 1.155 throughput: 18078.000 
+Debug.js:127 [118642] livestat timeupdate delay: 2.280 buffer: 1.155 throughput: 18078.000 
+Debug.js:127 [118655] livestat chunk loading completed in: 0.135 video throughput: 18866 
+Debug.js:127 [119122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18078.000 
+Debug.js:127 [119122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18078.000 
+Debug.js:127 [119519] livestat chunk loading started 
+Debug.js:127 [119522] livestat chunk loading completed in: 0.002 audio throughput: 12168 
+Debug.js:127 [119523] livestat chunk loading started 
+Debug.js:127 [119652] livestat timeupdate delay: 2.279 buffer: 1.144 throughput: 18078.000 
+Debug.js:127 [119653] livestat timeupdate delay: 2.280 buffer: 1.144 throughput: 18078.000 
+Debug.js:127 [119660] livestat chunk loading completed in: 0.137 video throughput: 18738 
+Debug.js:127 [120122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18078.000 
+Debug.js:127 [120122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18078.000 
+Debug.js:127 [120527] livestat chunk loading started 
+Debug.js:127 [120535] livestat chunk loading started 
+Debug.js:127 [120539] livestat chunk loading completed in: 0.003 audio throughput: 12185 
+Debug.js:127 [120625] livestat timeupdate delay: 2.280 buffer: 1.172 throughput: 18078.000 
+Debug.js:127 [120626] livestat timeupdate delay: 2.281 buffer: 1.172 throughput: 18078.000 
+Debug.js:127 [120648] livestat chunk loading completed in: 0.120 video throughput: 18885 
+Debug.js:127 [120876] livestat timeupdate delay: 2.279 buffer: 1.920 throughput: 18078.000 
+Debug.js:127 [120877] livestat timeupdate delay: 2.280 buffer: 1.920 throughput: 18078.000 
+Debug.js:127 [121372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 18078.000 
+Debug.js:127 [121372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 18078.000 
+Debug.js:127 [121519] livestat chunk loading started 
+Debug.js:127 [121522] livestat chunk loading completed in: 0.003 audio throughput: 12180 
+Debug.js:127 [121529] livestat chunk loading started 
+Debug.js:127 [121536] livestat loadend index: 188022069 time passed: 6.245 
+Debug.js:127 [121634] livestat chunk loading completed in: 0.105 video throughput: 19263 
+Debug.js:127 [121665] livestat loadend index: 188022069 time passed: 6.809 
+Debug.js:127 [121666] livestat timeupdate delay: 2.279 buffer: 1.563 throughput: 18345.000 
+Debug.js:127 [121667] livestat timeupdate delay: 2.280 buffer: 1.563 throughput: 18345.000 
+Debug.js:127 [122122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [122123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [122624] livestat timeupdate delay: 2.280 buffer: 1.174 throughput: 18345.000 
+Debug.js:127 [122624] livestat timeupdate delay: 2.281 buffer: 1.174 throughput: 18345.000 
+Debug.js:127 [122872] livestat timeupdate delay: 2.279 buffer: 0.924 throughput: 18345.000 
+Debug.js:127 [122873] livestat timeupdate delay: 2.280 buffer: 0.924 throughput: 18345.000 
+Debug.js:127 [122976] livestat chunk loading started 
+Debug.js:127 [123079] livestat chunk loading completed in: 0.103 video throughput: 19677 
+Debug.js:127 [123099] livestat chunk loading started 
+Debug.js:127 [123103] livestat chunk loading completed in: 0.004 audio throughput: 12157 
+Debug.js:127 [123122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [123123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [123372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 18345.000 
+Debug.js:127 [123373] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 18345.000 
+Debug.js:127 [123519] livestat chunk loading started 
+Debug.js:127 [123524] livestat chunk loading started 
+Debug.js:127 [123528] livestat chunk loading completed in: 0.004 audio throughput: 14688 
+Debug.js:127 [123637] livestat chunk loading completed in: 0.117 video throughput: 19798 
+Debug.js:127 [123640] livestat timeupdate delay: 2.279 buffer: 1.590 throughput: 18345.000 
+Debug.js:127 [123640] livestat timeupdate delay: 2.279 buffer: 1.590 throughput: 18345.000 
+Debug.js:127 [124122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [124123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [124372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 18345.000 
+Debug.js:127 [124372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 18345.000 
+Debug.js:127 [124518] livestat chunk loading started 
+Debug.js:127 [124525] livestat chunk loading completed in: 0.007 audio throughput: 13305 
+Debug.js:127 [124528] livestat chunk loading started 
+Debug.js:127 [124645] livestat chunk loading completed in: 0.116 video throughput: 20046 
+Debug.js:127 [124652] livestat timeupdate delay: 2.284 buffer: 1.582 throughput: 18345.000 
+Debug.js:127 [124653] livestat timeupdate delay: 2.285 buffer: 1.582 throughput: 18345.000 
+Debug.js:127 [125122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [125123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [125372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 18345.000 
+Debug.js:127 [125372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 18345.000 
+Debug.js:127 [125522] livestat chunk loading started 
+Debug.js:127 [125528] livestat chunk loading started 
+Debug.js:127 [125532] livestat chunk loading completed in: 0.003 audio throughput: 15230 
+Debug.js:127 [125623] livestat chunk loading completed in: 0.100 video throughput: 20626 
+Debug.js:127 [125630] livestat timeupdate delay: 2.279 buffer: 1.600 throughput: 18345.000 
+Debug.js:127 [125630] livestat timeupdate delay: 2.279 buffer: 1.600 throughput: 18345.000 
+Debug.js:127 [126122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [126122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [126372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 18345.000 
+Debug.js:127 [126372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 18345.000 
+Debug.js:127 [126523] livestat chunk loading started 
+Debug.js:127 [126533] livestat chunk loading started 
+Debug.js:127 [126545] livestat chunk loading completed in: 0.011 audio throughput: 11516 
+Debug.js:127 [126659] livestat chunk loading completed in: 0.135 video throughput: 20626 
+Debug.js:127 [126662] livestat timeupdate delay: 2.279 buffer: 1.568 throughput: 18345.000 
+Debug.js:127 [126663] livestat timeupdate delay: 2.280 buffer: 1.568 throughput: 18345.000 
+Debug.js:127 [127122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [127123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [127372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 18345.000 
+Debug.js:127 [127373] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 18345.000 
+Debug.js:127 [127518] livestat chunk loading started 
+Debug.js:127 [127528] livestat chunk loading started 
+Debug.js:127 [127532] livestat chunk loading completed in: 0.004 audio throughput: 10933 
+Debug.js:127 [127628] livestat chunk loading completed in: 0.110 video throughput: 21240 
+Debug.js:127 [127630] livestat timeupdate delay: 2.279 buffer: 1.599 throughput: 18345.000 
+Debug.js:127 [127631] livestat timeupdate delay: 2.280 buffer: 1.599 throughput: 18345.000 
+Debug.js:127 [128122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [128123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [128372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 18345.000 
+Debug.js:127 [128372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 18345.000 
+Debug.js:127 [128519] livestat chunk loading started 
+Debug.js:127 [128535] livestat chunk loading started 
+Debug.js:127 [128542] livestat chunk loading completed in: 0.006 audio throughput: 10146 
+Debug.js:127 [128627] livestat chunk loading completed in: 0.107 video throughput: 21550 
+Debug.js:127 [128629] livestat timeupdate delay: 2.279 buffer: 1.601 throughput: 18345.000 
+Debug.js:127 [128629] livestat timeupdate delay: 2.279 buffer: 1.601 throughput: 18345.000 
+Debug.js:127 [129122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [129123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 18345.000 
+Debug.js:127 [129519] livestat chunk loading started 
+Debug.js:127 [129536] livestat chunk loading started 
+Debug.js:127 [129541] livestat chunk loading completed in: 0.005 audio throughput: 9682 
+Debug.js:127 [129564] livestat loadend index: 188022070 time passed: 6.504 
+Debug.js:127 [129632] livestat chunk loading completed in: 0.113 video throughput: 21358 
+Debug.js:127 [129653] livestat timeupdate delay: 2.279 buffer: 1.143 throughput: 18345.000 
+Debug.js:127 [129654] livestat timeupdate delay: 2.280 buffer: 1.143 throughput: 18345.000 
+Debug.js:127 [129666] livestat loadend index: 188022070 time passed: 6.830 
+Debug.js:127 [130122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [130123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [130372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 19006.000 
+Debug.js:127 [130373] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 19006.000 
+Debug.js:127 [130623] livestat timeupdate delay: 2.279 buffer: 1.173 throughput: 19006.000 
+Debug.js:127 [130624] livestat timeupdate delay: 2.280 buffer: 1.173 throughput: 19006.000 
+Debug.js:127 [130979] livestat chunk loading started 
+Debug.js:127 [131078] livestat chunk loading completed in: 0.099 video throughput: 21453 
+Debug.js:127 [131122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [131123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [131285] livestat chunk loading started 
+Debug.js:127 [131287] livestat chunk loading completed in: 0.002 audio throughput: 10151 
+Debug.js:127 [131372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 19006.000 
+Debug.js:127 [131373] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 19006.000 
+Debug.js:127 [131521] livestat chunk loading started 
+Debug.js:127 [131525] livestat chunk loading completed in: 0.004 audio throughput: 10147 
+Debug.js:127 [131527] livestat chunk loading started 
+Debug.js:127 [131636] livestat chunk loading completed in: 0.109 video throughput: 21646 
+Debug.js:127 [131638] livestat timeupdate delay: 2.279 buffer: 1.592 throughput: 19006.000 
+Debug.js:127 [131638] livestat timeupdate delay: 2.279 buffer: 1.592 throughput: 19006.000 
+Debug.js:127 [132122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [132122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [132372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 19006.000 
+Debug.js:127 [132372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 19006.000 
+Debug.js:127 [132519] livestat chunk loading started 
+Debug.js:127 [132522] livestat chunk loading completed in: 0.003 audio throughput: 11222 
+Debug.js:127 [132525] livestat chunk loading started 
+Debug.js:127 [132665] livestat chunk loading completed in: 0.140 video throughput: 21077 
+Debug.js:127 [132667] livestat timeupdate delay: 2.279 buffer: 1.562 throughput: 19006.000 
+Debug.js:127 [132668] livestat timeupdate delay: 2.280 buffer: 1.562 throughput: 19006.000 
+Debug.js:127 [133122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [133123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [133372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 19006.000 
+Debug.js:127 [133372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 19006.000 
+Debug.js:127 [133523] livestat chunk loading started 
+Debug.js:127 [133526] livestat chunk loading completed in: 0.000 audio throughput: 11841 
+Debug.js:127 [133532] livestat chunk loading started 
+Debug.js:127 [133623] livestat timeupdate delay: 2.279 buffer: 1.173 throughput: 19006.000 
+Debug.js:127 [133623] livestat timeupdate delay: 2.279 buffer: 1.173 throughput: 19006.000 
+Debug.js:127 [133626] livestat chunk loading completed in: 0.094 video throughput: 21217 
+Debug.js:127 [134122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [134123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [134372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 19006.000 
+Debug.js:127 [134373] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 19006.000 
+Debug.js:127 [134519] livestat chunk loading started 
+Debug.js:127 [134523] livestat chunk loading completed in: 0.003 audio throughput: 15224 
+Debug.js:127 [134527] livestat chunk loading started 
+Debug.js:127 [134645] livestat chunk loading completed in: 0.118 video throughput: 21622 
+Debug.js:127 [134648] livestat timeupdate delay: 2.280 buffer: 1.582 throughput: 19006.000 
+Debug.js:127 [134648] livestat timeupdate delay: 2.280 buffer: 1.582 throughput: 19006.000 
+Debug.js:127 [135122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [135123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [135519] livestat chunk loading started 
+Debug.js:127 [135523] livestat chunk loading completed in: 0.004 audio throughput: 15214 
+Debug.js:127 [135526] livestat chunk loading started 
+Debug.js:127 [135632] livestat chunk loading completed in: 0.106 video throughput: 21720 
+Debug.js:127 [135635] livestat timeupdate delay: 2.279 buffer: 1.161 throughput: 19006.000 
+Debug.js:127 [135635] livestat timeupdate delay: 2.279 buffer: 1.161 throughput: 19006.000 
+Debug.js:127 [136122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [136123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [136519] livestat chunk loading started 
+Debug.js:127 [136526] livestat chunk loading completed in: 0.006 audio throughput: 15226 
+Debug.js:127 [136528] livestat chunk loading started 
+Debug.js:127 [136642] livestat chunk loading completed in: 0.113 video throughput: 21574 
+Debug.js:127 [136644] livestat timeupdate delay: 2.279 buffer: 1.586 throughput: 19006.000 
+Debug.js:127 [136644] livestat timeupdate delay: 2.279 buffer: 1.586 throughput: 19006.000 
+Debug.js:127 [137122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [137123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 19006.000 
+Debug.js:127 [137519] livestat chunk loading started 
+Debug.js:127 [137521] livestat chunk loading started 
+Debug.js:127 [137526] livestat chunk loading completed in: 0.007 audio throughput: 14231 
+Debug.js:127 [137532] livestat loadend index: 188022071 time passed: 6.261 
+Debug.js:127 [137632] livestat chunk loading completed in: 0.111 video throughput: 21622 
+Debug.js:127 [137655] livestat timeupdate delay: 2.279 buffer: 1.141 throughput: 19006.000 
+Debug.js:127 [137656] livestat timeupdate delay: 2.280 buffer: 1.141 throughput: 19006.000 
+Debug.js:127 [137666] livestat loadend index: 188022071 time passed: 6.825 
+Debug.js:127 [138122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [138123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [138622] livestat timeupdate delay: 2.279 buffer: 1.174 throughput: 20182.000 
+Debug.js:127 [138622] livestat timeupdate delay: 2.279 buffer: 1.174 throughput: 20182.000 
+Debug.js:127 [138872] livestat timeupdate delay: 2.279 buffer: 0.924 throughput: 20182.000 
+Debug.js:127 [138873] livestat timeupdate delay: 2.280 buffer: 0.924 throughput: 20182.000 
+Debug.js:127 [138950] livestat chunk loading started 
+Debug.js:127 [139062] livestat chunk loading completed in: 0.111 video throughput: 21334 
+Debug.js:127 [139066] livestat chunk loading started 
+Debug.js:127 [139069] livestat chunk loading completed in: 0.003 audio throughput: 13742 
+Debug.js:127 [139122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [139122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [139372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 20182.000 
+Debug.js:127 [139372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 20182.000 
+Debug.js:127 [139518] livestat chunk loading started 
+Debug.js:127 [139521] livestat chunk loading completed in: 0.003 audio throughput: 14202 
+Debug.js:127 [139523] livestat chunk loading started 
+Debug.js:127 [139635] livestat chunk loading completed in: 0.112 video throughput: 21264 
+Debug.js:127 [139638] livestat timeupdate delay: 2.279 buffer: 1.591 throughput: 20182.000 
+Debug.js:127 [139639] livestat timeupdate delay: 2.280 buffer: 1.591 throughput: 20182.000 
+Debug.js:127 [140122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [140122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [140372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 20182.000 
+Debug.js:127 [140373] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 20182.000 
+Debug.js:127 [140519] livestat chunk loading started 
+Debug.js:127 [140522] livestat chunk loading completed in: 0.003 audio throughput: 14194 
+Debug.js:127 [140524] livestat chunk loading started 
+Debug.js:127 [140624] livestat chunk loading completed in: 0.100 video throughput: 22247 
+Debug.js:127 [140627] livestat timeupdate delay: 2.279 buffer: 1.602 throughput: 20182.000 
+Debug.js:127 [140627] livestat timeupdate delay: 2.279 buffer: 1.602 throughput: 20182.000 
+Debug.js:127 [141122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [141123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [141372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 20182.000 
+Debug.js:127 [141373] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 20182.000 
+Debug.js:127 [141519] livestat chunk loading started 
+Debug.js:127 [141524] livestat chunk loading completed in: 0.004 audio throughput: 12908 
+Debug.js:127 [141527] livestat chunk loading started 
+Debug.js:127 [141628] livestat chunk loading completed in: 0.101 video throughput: 22068 
+Debug.js:127 [141630] livestat timeupdate delay: 2.281 buffer: 1.601 throughput: 20182.000 
+Debug.js:127 [141630] livestat timeupdate delay: 2.281 buffer: 1.601 throughput: 20182.000 
+Debug.js:127 [142122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [142123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [142372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 20182.000 
+Debug.js:127 [142373] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 20182.000 
+Debug.js:127 [142518] livestat chunk loading started 
+Debug.js:127 [142523] livestat chunk loading completed in: 0.004 audio throughput: 12534 
+Debug.js:127 [142529] livestat chunk loading started 
+Debug.js:127 [142641] livestat chunk loading completed in: 0.111 video throughput: 22247 
+Debug.js:127 [142644] livestat timeupdate delay: 2.279 buffer: 1.586 throughput: 20182.000 
+Debug.js:127 [142644] livestat timeupdate delay: 2.279 buffer: 1.586 throughput: 20182.000 
+Debug.js:127 [143123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 20182.000 
+Debug.js:127 [143123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 20182.000 
+Debug.js:127 [143523] livestat chunk loading started 
+Debug.js:127 [143526] livestat chunk loading completed in: 0.003 audio throughput: 12921 
+Debug.js:127 [143529] livestat chunk loading started 
+Debug.js:127 [143628] livestat chunk loading completed in: 0.098 video throughput: 22455 
+Debug.js:127 [143635] livestat timeupdate delay: 2.278 buffer: 1.594 throughput: 20182.000 
+Debug.js:127 [143636] livestat timeupdate delay: 2.279 buffer: 1.594 throughput: 20182.000 
+Debug.js:127 [144122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [144123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [144372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 20182.000 
+Debug.js:127 [144372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 20182.000 
+Debug.js:127 [144520] livestat chunk loading started 
+Debug.js:127 [144527] livestat chunk loading completed in: 0.007 audio throughput: 12522 
+Debug.js:127 [144531] livestat chunk loading started 
+Debug.js:127 [144633] livestat chunk loading completed in: 0.101 video throughput: 22774 
+Debug.js:127 [144635] livestat timeupdate delay: 2.279 buffer: 1.594 throughput: 20182.000 
+Debug.js:127 [144636] livestat timeupdate delay: 2.280 buffer: 1.594 throughput: 20182.000 
+Debug.js:127 [145122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [145123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 20182.000 
+Debug.js:127 [145520] livestat chunk loading started 
+Debug.js:127 [145526] livestat chunk loading started 
+Debug.js:127 [145530] livestat chunk loading completed in: 0.003 audio throughput: 14174 
+Debug.js:127 [145536] livestat loadend index: 188022072 time passed: 6.495 
+Debug.js:127 [145626] livestat chunk loading completed in: 0.105 video throughput: 22936 
+Debug.js:127 [145657] livestat loadend index: 188022072 time passed: 6.825 
+Debug.js:127 [145659] livestat timeupdate delay: 2.278 buffer: 1.570 throughput: 21211.000 
+Debug.js:127 [145660] livestat timeupdate delay: 2.279 buffer: 1.570 throughput: 21211.000 
+Debug.js:127 [146122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [146122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [146372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 21211.000 
+Debug.js:127 [146373] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 21211.000 
+Debug.js:127 [146872] livestat timeupdate delay: 2.279 buffer: 0.924 throughput: 21211.000 
+Debug.js:127 [146873] livestat timeupdate delay: 2.280 buffer: 0.924 throughput: 21211.000 
+Debug.js:127 [146987] livestat chunk loading started 
+Debug.js:127 [147089] livestat chunk loading completed in: 0.102 video throughput: 23185 
+Debug.js:127 [147103] livestat chunk loading started 
+Debug.js:127 [147105] livestat chunk loading completed in: 0.002 audio throughput: 14713 
+Debug.js:127 [147122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [147123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [147524] livestat chunk loading started 
+Debug.js:127 [147529] livestat chunk loading completed in: 0.005 audio throughput: 13748 
+Debug.js:127 [147532] livestat chunk loading started 
+Debug.js:127 [147626] livestat chunk loading completed in: 0.093 video throughput: 23728 
+Debug.js:127 [147633] livestat timeupdate delay: 2.278 buffer: 1.597 throughput: 21211.000 
+Debug.js:127 [147633] livestat timeupdate delay: 2.279 buffer: 1.597 throughput: 21211.000 
+Debug.js:127 [148122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [148123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [148372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 21211.000 
+Debug.js:127 [148373] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 21211.000 
+Debug.js:127 [148519] livestat chunk loading started 
+Debug.js:127 [148526] livestat chunk loading started 
+Debug.js:127 [148529] livestat chunk loading completed in: 0.003 audio throughput: 13766 
+Debug.js:127 [148629] livestat chunk loading completed in: 0.110 video throughput: 23439 
+Debug.js:127 [148632] livestat timeupdate delay: 2.279 buffer: 1.597 throughput: 21211.000 
+Debug.js:127 [148632] livestat timeupdate delay: 2.279 buffer: 1.597 throughput: 21211.000 
+Debug.js:127 [149123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [149123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [149519] livestat chunk loading started 
+Debug.js:127 [149531] livestat chunk loading started 
+Debug.js:127 [149534] livestat chunk loading completed in: 0.002 audio throughput: 14697 
+Debug.js:127 [149634] livestat chunk loading completed in: 0.114 video throughput: 23074 
+Debug.js:127 [149636] livestat timeupdate delay: 2.279 buffer: 1.593 throughput: 21211.000 
+Debug.js:127 [149636] livestat timeupdate delay: 2.279 buffer: 1.593 throughput: 21211.000 
+Debug.js:127 [150122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [150123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [150372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 21211.000 
+Debug.js:127 [150373] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 21211.000 
+Debug.js:127 [150518] livestat chunk loading started 
+Debug.js:127 [150529] livestat chunk loading started 
+Debug.js:127 [150531] livestat chunk loading completed in: 0.000 audio throughput: 16388 
+Debug.js:127 [150636] livestat chunk loading completed in: 0.118 video throughput: 22882 
+Debug.js:127 [150639] livestat timeupdate delay: 2.279 buffer: 1.590 throughput: 21211.000 
+Debug.js:127 [150639] livestat timeupdate delay: 2.279 buffer: 1.590 throughput: 21211.000 
+Debug.js:127 [151122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [151123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [151519] livestat chunk loading started 
+Debug.js:127 [151525] livestat chunk loading started 
+Debug.js:127 [151529] livestat chunk loading completed in: 0.010 audio throughput: 12909 
+Debug.js:127 [151623] livestat timeupdate delay: 2.279 buffer: 1.173 throughput: 21211.000 
+Debug.js:127 [151623] livestat timeupdate delay: 2.279 buffer: 1.173 throughput: 21211.000 
+Debug.js:127 [151626] livestat chunk loading completed in: 0.100 video throughput: 22828 
+Debug.js:127 [152122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [152123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [152372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 21211.000 
+Debug.js:127 [152372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 21211.000 
+Debug.js:127 [152518] livestat chunk loading started 
+Debug.js:127 [152537] livestat chunk loading started 
+Debug.js:127 [152540] livestat chunk loading completed in: 0.003 audio throughput: 14694 
+Debug.js:127 [152639] livestat chunk loading completed in: 0.121 video throughput: 22299 
+Debug.js:127 [152641] livestat timeupdate delay: 2.278 buffer: 1.588 throughput: 21211.000 
+Debug.js:127 [152642] livestat timeupdate delay: 2.278 buffer: 1.588 throughput: 21211.000 
+Debug.js:127 [153122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [153123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 21211.000 
+Debug.js:127 [153518] livestat chunk loading started 
+Debug.js:127 [153525] livestat chunk loading started 
+Debug.js:127 [153530] livestat chunk loading completed in: 0.005 audio throughput: 13751 
+Debug.js:127 [153538] livestat loadend index: 188022073 time passed: 6.456 
+Debug.js:127 [153623] livestat timeupdate delay: 2.279 buffer: 1.173 throughput: 21211.000 
+Debug.js:127 [153623] livestat timeupdate delay: 2.279 buffer: 1.173 throughput: 21211.000 
+Debug.js:127 [153632] livestat chunk loading completed in: 0.113 video throughput: 22094 
+Debug.js:127 [153658] livestat loadend index: 188022073 time passed: 6.802 
+Debug.js:127 [154122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 21987.000 
+Debug.js:127 [154123] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 21987.000 
+Debug.js:127 [154623] livestat timeupdate delay: 2.278 buffer: 1.173 throughput: 21987.000 
+Debug.js:127 [154623] livestat timeupdate delay: 2.279 buffer: 1.173 throughput: 21987.000 
+Debug.js:127 [154971] livestat chunk loading started 
+Debug.js:127 [155078] livestat chunk loading completed in: 0.106 video throughput: 21993 
+Debug.js:127 [155122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 21987.000 
+Debug.js:127 [155123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 21987.000 
+Debug.js:127 [155306] livestat chunk loading started 
+Debug.js:127 [155314] livestat chunk loading completed in: 0.008 audio throughput: 11506 
+Debug.js:127 [155372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21987.000 
+Debug.js:127 [155373] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21987.000 
+Debug.js:127 [155518] livestat chunk loading started 
+Debug.js:127 [155522] livestat chunk loading completed in: 0.003 audio throughput: 12177 
+Debug.js:127 [155525] livestat chunk loading started 
+Debug.js:127 [155679] livestat chunk loading completed in: 0.153 video throughput: 20582 
+Debug.js:127 [155763] livestat timeupdate delay: 2.279 buffer: 1.033 throughput: 21987.000 
+Debug.js:127 [155763] livestat timeupdate delay: 2.279 buffer: 1.033 throughput: 21987.000 
+Debug.js:127 [156125] livestat timeupdate delay: 2.278 buffer: 1.671 throughput: 21987.000 
+Debug.js:127 [156125] livestat timeupdate delay: 2.279 buffer: 1.671 throughput: 21987.000 
+Debug.js:127 [156519] livestat chunk loading started 
+Debug.js:127 [156530] livestat chunk loading started 
+Debug.js:127 [156534] livestat chunk loading completed in: 0.004 audio throughput: 11814 
+Debug.js:127 [156690] livestat chunk loading completed in: 0.171 video throughput: 19321 
+Debug.js:127 [156692] livestat timeupdate delay: 2.279 buffer: 1.104 throughput: 21987.000 
+Debug.js:127 [156692] livestat timeupdate delay: 2.279 buffer: 1.104 throughput: 21987.000 
+Debug.js:127 [157129] livestat timeupdate delay: 2.279 buffer: 1.667 throughput: 21987.000 
+Debug.js:127 [157129] livestat timeupdate delay: 2.279 buffer: 1.667 throughput: 21987.000 
+Debug.js:127 [157518] livestat chunk loading started 
+Debug.js:127 [157526] livestat chunk loading started 
+Debug.js:127 [157532] livestat chunk loading completed in: 0.005 audio throughput: 10922 
+Debug.js:127 [157630] livestat chunk loading completed in: 0.111 video throughput: 19379 
+Debug.js:127 [157632] livestat timeupdate delay: 2.279 buffer: 1.597 throughput: 21987.000 
+Debug.js:127 [157632] livestat timeupdate delay: 2.279 buffer: 1.597 throughput: 21987.000 
+Debug.js:127 [158122] livestat timeupdate delay: 2.279 buffer: 1.674 throughput: 21987.000 
+Debug.js:127 [158123] livestat timeupdate delay: 2.280 buffer: 1.674 throughput: 21987.000 
+Debug.js:127 [158372] livestat timeupdate delay: 2.279 buffer: 1.424 throughput: 21987.000 
+Debug.js:127 [158373] livestat timeupdate delay: 2.280 buffer: 1.424 throughput: 21987.000 
+Debug.js:127 [158518] livestat chunk loading started 
+Debug.js:127 [158523] livestat chunk loading started 
+Debug.js:127 [158526] livestat chunk loading completed in: 0.003 audio throughput: 10403 
+Debug.js:127 [158630] livestat chunk loading completed in: 0.112 video throughput: 19497 
+Debug.js:127 [158633] livestat timeupdate delay: 2.279 buffer: 1.596 throughput: 21987.000 
+Debug.js:127 [158634] livestat timeupdate delay: 2.280 buffer: 1.596 throughput: 21987.000 
+Debug.js:127 [159122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21987.000 
+Debug.js:127 [159123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21987.000 
+Debug.js:127 [159372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21987.000 
+Debug.js:127 [159373] livestat timeupdate delay: 2.279 buffer: 1.423 throughput: 21987.000 
+Debug.js:127 [159519] livestat chunk loading started 
+Debug.js:127 [159524] livestat chunk loading started 
+Debug.js:127 [159527] livestat chunk loading completed in: 0.003 audio throughput: 12532 
+Debug.js:127 [159624] livestat chunk loading completed in: 0.105 video throughput: 19399 
+Debug.js:127 [159872] livestat timeupdate delay: 2.279 buffer: 1.924 throughput: 21987.000 
+Debug.js:127 [159873] livestat timeupdate delay: 2.280 buffer: 1.924 throughput: 21987.000 
+Debug.js:127 [160122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21987.000 
+Debug.js:127 [160123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21987.000 
+Debug.js:127 [160372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21987.000 
+Debug.js:127 [160373] livestat timeupdate delay: 2.279 buffer: 1.423 throughput: 21987.000 
+Debug.js:127 [160519] livestat chunk loading started 
+Debug.js:127 [160524] livestat chunk loading started 
+Debug.js:127 [160534] livestat chunk loading completed in: 0.009 audio throughput: 10657 
+Debug.js:127 [160625] livestat chunk loading completed in: 0.106 video throughput: 19697 
+Debug.js:127 [160629] livestat timeupdate delay: 2.279 buffer: 1.167 throughput: 21987.000 
+Debug.js:127 [160630] livestat timeupdate delay: 2.280 buffer: 1.167 throughput: 21987.000 
+Debug.js:127 [161122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21987.000 
+Debug.js:127 [161123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21987.000 
+Debug.js:127 [161372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21987.000 
+Debug.js:127 [161373] livestat timeupdate delay: 2.279 buffer: 1.423 throughput: 21987.000 
+Debug.js:127 [161521] livestat chunk loading started 
+Debug.js:127 [161530] livestat chunk loading started 
+Debug.js:127 [161534] livestat chunk loading completed in: 0.004 audio throughput: 10936 
+Debug.js:127 [161540] livestat loadend index: 188022074 time passed: 6.248 
+Debug.js:127 [161667] livestat chunk loading completed in: 0.145 video throughput: 19072 
+Debug.js:127 [161685] livestat timeupdate delay: 2.279 buffer: 1.111 throughput: 21987.000 
+Debug.js:127 [161685] livestat timeupdate delay: 2.279 buffer: 1.111 throughput: 21987.000 
+Debug.js:127 [161739] livestat loadend index: 188022074 time passed: 6.896 
+Debug.js:127 [162122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [162123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [162622] livestat timeupdate delay: 2.278 buffer: 1.173 throughput: 21329.000 
+Debug.js:127 [162623] livestat timeupdate delay: 2.279 buffer: 1.173 throughput: 21329.000 
+Debug.js:127 [162872] livestat timeupdate delay: 2.278 buffer: 0.923 throughput: 21329.000 
+Debug.js:127 [162873] livestat timeupdate delay: 2.279 buffer: 0.923 throughput: 21329.000 
+Debug.js:127 [162888] livestat chunk loading started 
+Debug.js:127 [162994] livestat chunk loading completed in: 0.106 video throughput: 19072 
+Debug.js:127 [163087] livestat chunk loading started 
+Debug.js:127 [163090] livestat chunk loading completed in: 0.003 audio throughput: 12540 
+Debug.js:127 [163372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21329.000 
+Debug.js:127 [163373] livestat timeupdate delay: 2.279 buffer: 1.423 throughput: 21329.000 
+Debug.js:127 [163519] livestat chunk loading started 
+Debug.js:127 [163524] livestat chunk loading completed in: 0.004 audio throughput: 12175 
+Debug.js:127 [163526] livestat chunk loading started 
+Debug.js:127 [163625] livestat timeupdate delay: 2.278 buffer: 1.170 throughput: 21329.000 
+Debug.js:127 [163626] livestat timeupdate delay: 2.279 buffer: 1.170 throughput: 21329.000 
+Debug.js:127 [163628] livestat chunk loading completed in: 0.101 video throughput: 20108 
+Debug.js:127 [164122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [164126] livestat timeupdate delay: 2.282 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [164519] livestat chunk loading started 
+Debug.js:127 [164525] livestat chunk loading completed in: 0.006 audio throughput: 11528 
+Debug.js:127 [164529] livestat chunk loading started 
+Debug.js:127 [164638] livestat chunk loading completed in: 0.109 video throughput: 21501 
+Debug.js:127 [164641] livestat timeupdate delay: 2.278 buffer: 1.587 throughput: 21329.000 
+Debug.js:127 [164642] livestat timeupdate delay: 2.279 buffer: 1.587 throughput: 21329.000 
+Debug.js:127 [165122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [165123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [165372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21329.000 
+Debug.js:127 [165373] livestat timeupdate delay: 2.279 buffer: 1.423 throughput: 21329.000 
+Debug.js:127 [165521] livestat chunk loading started 
+Debug.js:127 [165526] livestat chunk loading completed in: 0.005 audio throughput: 11528 
+Debug.js:127 [165529] livestat chunk loading started 
+Debug.js:127 [165641] livestat chunk loading completed in: 0.112 video throughput: 21477 
+Debug.js:127 [165645] livestat timeupdate delay: 2.279 buffer: 1.584 throughput: 21329.000 
+Debug.js:127 [165645] livestat timeupdate delay: 2.279 buffer: 1.584 throughput: 21329.000 
+Debug.js:127 [166122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [166122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [166372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21329.000 
+Debug.js:127 [166372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21329.000 
+Debug.js:127 [166520] livestat chunk loading started 
+Debug.js:127 [166524] livestat chunk loading completed in: 0.003 audio throughput: 11499 
+Debug.js:127 [166526] livestat chunk loading started 
+Debug.js:127 [166700] livestat chunk loading completed in: 0.174 video throughput: 20087 
+Debug.js:127 [166704] livestat timeupdate delay: 2.278 buffer: 1.525 throughput: 21329.000 
+Debug.js:127 [166704] livestat timeupdate delay: 2.278 buffer: 1.525 throughput: 21329.000 
+Debug.js:127 [167122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [167123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [167519] livestat chunk loading started 
+Debug.js:127 [167523] livestat chunk loading started 
+Debug.js:127 [167525] livestat chunk loading completed in: 0.006 audio throughput: 10650 
+Debug.js:127 [167627] livestat chunk loading completed in: 0.104 video throughput: 20108 
+Debug.js:127 [167630] livestat timeupdate delay: 2.279 buffer: 1.599 throughput: 21329.000 
+Debug.js:127 [167630] livestat timeupdate delay: 2.279 buffer: 1.599 throughput: 21329.000 
+Debug.js:127 [168122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [168123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [168372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21329.000 
+Debug.js:127 [168373] livestat timeupdate delay: 2.279 buffer: 1.423 throughput: 21329.000 
+Debug.js:127 [168522] livestat chunk loading started 
+Debug.js:127 [168532] livestat chunk loading completed in: 0.009 audio throughput: 10666 
+Debug.js:127 [168534] livestat chunk loading started 
+Debug.js:127 [168643] livestat chunk loading completed in: 0.109 video throughput: 20046 
+Debug.js:127 [168646] livestat timeupdate delay: 2.278 buffer: 1.149 throughput: 21329.000 
+Debug.js:127 [168646] livestat timeupdate delay: 2.278 buffer: 1.149 throughput: 21329.000 
+Debug.js:127 [169122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [169123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21329.000 
+Debug.js:127 [169372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21329.000 
+Debug.js:127 [169373] livestat timeupdate delay: 2.279 buffer: 1.423 throughput: 21329.000 
+Debug.js:127 [169519] livestat chunk loading started 
+Debug.js:127 [169522] livestat chunk loading started 
+Debug.js:127 [169529] livestat chunk loading completed in: 0.007 audio throughput: 9900 
+Debug.js:127 [169539] livestat loadend index: 188022075 time passed: 6.469 
+Debug.js:127 [169635] livestat chunk loading completed in: 0.113 video throughput: 20737 
+Debug.js:127 [169663] livestat loadend index: 188022075 time passed: 6.903 
+Debug.js:127 [169665] livestat timeupdate delay: 2.278 buffer: 1.564 throughput: 21106.000 
+Debug.js:127 [169666] livestat timeupdate delay: 2.279 buffer: 1.564 throughput: 21106.000 
+Debug.js:127 [170123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [170123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [170372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21106.000 
+Debug.js:127 [170373] livestat timeupdate delay: 2.279 buffer: 1.423 throughput: 21106.000 
+Debug.js:127 [170623] livestat timeupdate delay: 2.278 buffer: 1.172 throughput: 21106.000 
+Debug.js:127 [170624] livestat timeupdate delay: 2.279 buffer: 1.172 throughput: 21106.000 
+Debug.js:127 [170969] livestat chunk loading started 
+Debug.js:127 [171071] livestat chunk loading completed in: 0.102 video throughput: 20827 
+Debug.js:127 [171128] livestat timeupdate delay: 2.278 buffer: 1.667 throughput: 21106.000 
+Debug.js:127 [171129] livestat timeupdate delay: 2.279 buffer: 1.667 throughput: 21106.000 
+Debug.js:127 [171272] livestat chunk loading started 
+Debug.js:127 [171278] livestat chunk loading completed in: 0.006 audio throughput: 9262 
+Debug.js:127 [171519] livestat chunk loading started 
+Debug.js:127 [171526] livestat chunk loading completed in: 0.006 audio throughput: 8880 
+Debug.js:127 [171529] livestat chunk loading started 
+Debug.js:127 [171630] livestat chunk loading completed in: 0.100 video throughput: 20849 
+Debug.js:127 [171632] livestat timeupdate delay: 2.278 buffer: 1.163 throughput: 21106.000 
+Debug.js:127 [171632] livestat timeupdate delay: 2.278 buffer: 1.163 throughput: 21106.000 
+Debug.js:127 [172122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [172123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [172519] livestat chunk loading started 
+Debug.js:127 [172528] livestat chunk loading completed in: 0.009 audio throughput: 8352 
+Debug.js:127 [172530] livestat chunk loading started 
+Debug.js:127 [172631] livestat chunk loading completed in: 0.101 video throughput: 21031 
+Debug.js:127 [172633] livestat timeupdate delay: 2.278 buffer: 1.595 throughput: 21106.000 
+Debug.js:127 [172633] livestat timeupdate delay: 2.278 buffer: 1.595 throughput: 21106.000 
+Debug.js:127 [173125] livestat timeupdate delay: 2.281 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [173125] livestat timeupdate delay: 2.281 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [173372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21106.000 
+Debug.js:127 [173373] livestat timeupdate delay: 2.279 buffer: 1.423 throughput: 21106.000 
+Debug.js:127 [173519] livestat chunk loading started 
+Debug.js:127 [173523] livestat chunk loading completed in: 0.004 audio throughput: 8515 
+Debug.js:127 [173525] livestat chunk loading started 
+Debug.js:127 [173630] livestat chunk loading completed in: 0.104 video throughput: 21217 
+Debug.js:127 [173633] livestat timeupdate delay: 2.279 buffer: 1.596 throughput: 21106.000 
+Debug.js:127 [173633] livestat timeupdate delay: 2.279 buffer: 1.596 throughput: 21106.000 
+Debug.js:127 [174122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [174123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [174372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21106.000 
+Debug.js:127 [174373] livestat timeupdate delay: 2.279 buffer: 1.423 throughput: 21106.000 
+Debug.js:127 [174518] livestat chunk loading started 
+Debug.js:127 [174524] livestat chunk loading started 
+Debug.js:127 [174528] livestat chunk loading completed in: 0.003 audio throughput: 8526 
+Debug.js:127 [174639] livestat chunk loading completed in: 0.121 video throughput: 22534 
+Debug.js:127 [174642] livestat timeupdate delay: 2.278 buffer: 1.154 throughput: 21106.000 
+Debug.js:127 [174642] livestat timeupdate delay: 2.279 buffer: 1.154 throughput: 21106.000 
+Debug.js:127 [175122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [175123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [175372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21106.000 
+Debug.js:127 [175373] livestat timeupdate delay: 2.279 buffer: 1.423 throughput: 21106.000 
+Debug.js:127 [175519] livestat chunk loading started 
+Debug.js:127 [175522] livestat chunk loading completed in: 0.002 audio throughput: 9256 
+Debug.js:127 [175523] livestat chunk loading started 
+Debug.js:127 [175640] livestat chunk loading completed in: 0.117 video throughput: 22196 
+Debug.js:127 [175643] livestat timeupdate delay: 2.279 buffer: 1.586 throughput: 21106.000 
+Debug.js:127 [175643] livestat timeupdate delay: 2.279 buffer: 1.586 throughput: 21106.000 
+Debug.js:127 [176122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [176123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [176372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 21106.000 
+Debug.js:127 [176373] livestat timeupdate delay: 2.279 buffer: 1.423 throughput: 21106.000 
+Debug.js:127 [176519] livestat chunk loading started 
+Debug.js:127 [176530] livestat chunk loading started 
+Debug.js:127 [176534] livestat chunk loading completed in: 0.004 audio throughput: 10377 
+Debug.js:127 [176644] livestat chunk loading completed in: 0.125 video throughput: 21794 
+Debug.js:127 [176647] livestat timeupdate delay: 2.278 buffer: 1.148 throughput: 21106.000 
+Debug.js:127 [176648] livestat timeupdate delay: 2.279 buffer: 1.148 throughput: 21106.000 
+Debug.js:127 [177123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [177123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 21106.000 
+Debug.js:127 [177519] livestat chunk loading started 
+Debug.js:127 [177526] livestat chunk loading started 
+Debug.js:127 [177534] livestat chunk loading completed in: 0.015 audio throughput: 8701 
+Debug.js:127 [177556] livestat loadend index: 188022076 time passed: 6.297 
+Debug.js:127 [177643] livestat chunk loading completed in: 0.117 video throughput: 21695 
+Debug.js:127 [177676] livestat loadend index: 188022076 time passed: 6.831 
+Debug.js:127 [177678] livestat timeupdate delay: 2.278 buffer: 1.551 throughput: 20832.000 
+Debug.js:127 [177679] livestat timeupdate delay: 2.279 buffer: 1.551 throughput: 20832.000 
+Debug.js:127 [178122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 20832.000 
+Debug.js:127 [178123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 20832.000 
+Debug.js:127 [178623] livestat timeupdate delay: 2.279 buffer: 1.173 throughput: 20832.000 
+Debug.js:127 [178624] livestat timeupdate delay: 2.280 buffer: 1.173 throughput: 20832.000 
+Debug.js:127 [178899] livestat chunk loading started 
+Debug.js:127 [179005] livestat chunk loading completed in: 0.105 video throughput: 21622 
+Debug.js:127 [179124] livestat timeupdate delay: 2.279 buffer: 1.672 throughput: 20832.000 
+Debug.js:127 [179124] livestat timeupdate delay: 2.279 buffer: 1.672 throughput: 20832.000 
+Debug.js:127 [179312] livestat chunk loading started 
+Debug.js:127 [179320] livestat chunk loading completed in: 0.007 audio throughput: 8521 
+Debug.js:127 [179518] livestat chunk loading started 
+Debug.js:127 [179522] livestat chunk loading completed in: 0.004 audio throughput: 8883 
+Debug.js:127 [179524] livestat chunk loading started 
+Debug.js:127 [179622] livestat chunk loading completed in: 0.098 video throughput: 21671 
+Debug.js:127 [179626] livestat timeupdate delay: 2.278 buffer: 2.036 throughput: 20832.000 
+Debug.js:127 [179627] livestat timeupdate delay: 2.279 buffer: 2.036 throughput: 20832.000 
+Debug.js:127 [180122] livestat timeupdate delay: 2.278 buffer: 1.673 throughput: 20832.000 
+Debug.js:127 [180123] livestat timeupdate delay: 2.279 buffer: 1.673 throughput: 20832.000 
+Debug.js:127 [180372] livestat timeupdate delay: 2.278 buffer: 1.423 throughput: 20832.000 
+Debug.js:127 [180373] livestat timeupdate delay: 2.279 buffer: 1.423 throughput: 20832.000 
+Debug.js:127 [180521] livestat chunk loading started 
+Debug.js:127 [180527] livestat chunk loading started 
+Debug.js:127 [180529] livestat chunk loading completed in: 0.000 audio throughput: 10660 
+Debug.js:127 [180645] livestat chunk loading completed in: 0.123 video throughput: 21147 
+Debug.js:127 [180648] livestat timeupdate delay: 2.278 buffer: 1.581 throughput: 20832.000 
+Debug.js:127 [180648] livestat timeupdate delay: 2.278 buffer: 1.581 throughput: 20832.000 
+Debug.js:127 [181065] livestat timeupdate delay: 2.289 buffer: 1.741 throughput: 20832.000 
+Debug.js:127 [181066] livestat timeupdate delay: 2.290 buffer: 1.741 throughput: 20832.000 
+Debug.js:127 [181519] livestat chunk loading started 
+Debug.js:127 [181525] livestat chunk loading completed in: 0.006 audio throughput: 10151 
+Debug.js:127 [181527] livestat chunk loading started 
+Debug.js:127 [181633] livestat chunk loading completed in: 0.106 video throughput: 21101 
+Debug.js:127 [182519] livestat chunk loading started 
+Debug.js:127 [182526] livestat chunk loading started 
+Debug.js:127 [182530] livestat chunk loading completed in: 0.003 audio throughput: 10145 
+Debug.js:127 [182634] livestat chunk loading completed in: 0.115 video throughput: 21240 
+Debug.js:127 [183519] livestat chunk loading started 
+Debug.js:127 [183524] livestat chunk loading started 
+Debug.js:127 [183528] livestat chunk loading completed in: 0.004 audio throughput: 9694 
+Debug.js:127 [183638] livestat chunk loading completed in: 0.118 video throughput: 21217 
+Debug.js:127 [184520] livestat chunk loading started 
+Debug.js:127 [184524] livestat chunk loading completed in: 0.004 audio throughput: 9684 
+Debug.js:127 [184527] livestat chunk loading started 
+Debug.js:127 [184625] livestat chunk loading completed in: 0.098 video throughput: 21868 
+Debug.js:127 [185519] livestat chunk loading started 
+Debug.js:127 [185524] livestat chunk loading started 
+Debug.js:127 [185527] livestat chunk loading completed in: 0.003 audio throughput: 13306 
+Debug.js:127 [185533] livestat loadend index: 188022077 time passed: 6.236 
+Debug.js:127 [185625] livestat chunk loading completed in: 0.106 video throughput: 22145 
+Debug.js:127 [185653] livestat loadend index: 188022077 time passed: 6.897 
